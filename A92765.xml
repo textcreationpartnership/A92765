@@ -1,0 +1,764 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods warning to England by the voyce of his rod. Delivered in a sermon, preached at Margarets Westminster, before the Honourable House of Commons, at their late solemn fast, Octob. 30. 1644. By Henry Scudder, Rector of Collingborn-Ducis in Wiltshire. Published by order of the said House.</title>
+            <author>Scudder, Henry, d. 1659?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92765</idno>
+            <idno type="STC">Wing S2139</idno>
+            <idno type="STC">Thomason E18_20</idno>
+            <idno type="STC">ESTC R209986</idno>
+            <idno type="EEBO-CITATION">99868829</idno>
+            <idno type="PROQUEST">99868829</idno>
+            <idno type="VID">121185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121185)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E18[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods warning to England by the voyce of his rod. Delivered in a sermon, preached at Margarets Westminster, before the Honourable House of Commons, at their late solemn fast, Octob. 30. 1644. By Henry Scudder, Rector of Collingborn-Ducis in Wiltshire. Published by order of the said House.</title>
+                  <author>Scudder, Henry, d. 1659?</author>
+               </titleStmt>
+               <extent>[12], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for Philemon Stephens and Edward Blackmore, and are to be sold at their shops in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on p. [2].</note>
+                  <note>Running title reads: A sermon preached at the monethly fast, before the Honourable House of Commons. Octob. 30. 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Micah VI, 9 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121185:1" rendition="simple:additions"/>
+            <p>Gods warning to <hi>England</hi> BY the Voyce of his <hi>ROD.</hi>
+            </p>
+            <p>Delivered in A SERMON, Preached at <hi>Margarets Weſtminſter,</hi> before the Honourable Houſe of COMMONS, at their late Solemn Faſt, <hi>Octob.</hi> 30. 1644.</p>
+            <p>By HENRY SCUDDER, Rector of <hi>Collingborn-Ducis</hi> in <hi>Wiltſhire.</hi>
+            </p>
+            <p>Publiſhed by Order of the ſaid Houſe.</p>
+            <bibl>ZEPH. 2. 1, 2, 3.</bibl>
+            <q>Gather your ſelves together, yea gather your ſelves together, O Nation, not deſired. Before the Decree bring forth, before the day paſſe as the chaffe, before the fierce anger of the Lord come upon you, before the day of the Lords anger come upon you. Seck ye the Lord, all ye meck of the earth, which have wrought his Judgements, ſeek Righteouſneſſe, ſeek meckneſſe; it may be ye ſhall be hid in the day of the Lords anger.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. R.</hi> for <hi>Philemon Stephens</hi> and <hi>Edward Blackmore,</hi> and are to be ſold at their ſhops in <hi>Pauls</hi> Church-yard. 1644.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:121185:2"/>
+            <p>ORdered by the Commons Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament; That M<hi rend="sup">r</hi> 
+               <hi>Rous,</hi> M<hi rend="sup">r</hi> 
+               <hi>Long,</hi> and M<hi rend="sup">r</hi> 
+               <hi>Wheeler,</hi> do from this Houſe give Thanks to M<hi rend="sup">r</hi> 
+               <hi>Scudder,</hi> for the great pains he took in the Sermon he Preached this day, at the Intreaty of the ſaid Commons, at S. <hi>Margarets Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> (it being a day of publique Hu<g ref="char:EOLhyphen"/>miliation) and to deſire him to Print his Sermon; And it is Orde<g ref="char:EOLhyphen"/>red, that none ſhall preſume to Print his Sermon, but whom ſhall belicenſed under the hand writing of the ſaid M<hi rend="sup">r</hi> 
+               <hi>Scudder.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I appoint <hi>Philemon Stephens</hi> and <hi>Edward Blackmore</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>HENRY SCUDDER.</signed>
+            </closer>
+            <pb facs="tcp:121185:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121185:3"/>
+            <pb facs="tcp:121185:3"/>
+            <head>To The honourable Houſe of <hi>Commons</hi> Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His is a time of <hi>Englands</hi> trouble, moſt ſad, and tempeſtuous: and if we look upon the face of things as now they are, and of the gathering of new clouds to the darkning of the heavens over us; and upon the ordina<g ref="char:EOLhyphen"/>ry courſe of Gods Providence in the way of his Judgements, who can but Judge, and feare, that theſe are but the beginnings of troubles, and that they will be much greater and much worſe then yet they are?<note place="margin">Iſai. 4. 5. 7.</note>
+            </p>
+            <p>The Lord doth as well <hi>create darkneſſe</hi> as <hi>forme light,</hi> and doth as well <hi>create evill</hi> as <hi>make peace.</hi> And there is a <hi>viciſſitude</hi> of theſe, a ſucceeding of theſe, one in the place of another in Gods Government of the ſons of men.</p>
+            <p>Firſt, he giveth Peace and proſperity, and tryeth what the riches of his goodneſſe will work upon men: he aſſayeth to<note place="margin">Hoſ. 11. 4.</note> endear and draw them to himſelf, by the <hi>cords and bands of his love;</hi> to bring them to Repentance and Obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>
+               <pb facs="tcp:121185:4"/>But ſuch is mans unhappineſſe, ſince the fall of <hi>Adam,</hi> that uſually this goodneſſe and bounty of God is deſpiſed and abuſed: men quickly forget God, and grow proud, tyrannous, and Luxurious; and, waxing fat with Proſpe<g ref="char:EOLhyphen"/>rity, they are wanton, and <hi>kick againſt God,</hi> and do ex<g ref="char:EOLhyphen"/>ceed<note place="margin">Deut. 32. 15.</note> in all manner of Impiety, uncleanneſſe, and unrigh<g ref="char:EOLhyphen"/>teouſneſſe.</p>
+            <p>Yea, amongst them, Gods own people, who profeſſe his Name; even they will be too much tainted with the common ſins of the times, and places where they live.</p>
+            <p>With theſe, yet, God beareth a long time, being very loath to alter the courſe of his bounty, being unwilling to afflict or grieve the Children of men: but they continuing<note place="margin">Lam. 3. 33.</note> and increaſing in their wickedneſſe, he is enforced by his Juſtice and Truth, to Create and bring evill upon them, to plague and puniſh the whole world, or a great part of it, even ſo much of it as doth partake of like ſinnes, with Fa<g ref="char:EOLhyphen"/>mine and Peſtilence, or other diſeaſes, and laſt of all, with war, the ſoreſt of his plagues.</p>
+            <p>In ſuch Generall Viſitations it is Gods manner commonly to begin with his own people.</p>
+            <p>For he is most provoked with their ſins, and taketh it moſt<note place="margin">Deut. 32. 6.</note> unkindly at their hands: as he ſaith, <hi>You onely have I known of all the Families of the earth; therefore I</hi>
+               <note place="margin">Amos 2. 3.</note> 
+               <hi>will puniſh you for all your iniquities.</hi>
+            </p>
+            <p>He may alſo firſt begin with them, that they may repent and give good example to the reſt of the world round about them.</p>
+            <p>Alſo, that all men may ſee that God is Impartiall in his puniſhments.</p>
+            <p>And alſo that the wicked enemies of Gods people may know that they certainly ſhall not go unpuniſhed, as God ſaith,
+<pb facs="tcp:121185:4"/>
+               <hi>Lo, I bring evill upon the City, which is called by</hi>
+               <note place="margin">Jer. 5. 29.</note> 
+               <hi>my Name, and ſhould ye go unpuniſhed? ye ſhall not be unpuniſhed: for I will call for a ſword upon all the inhabitants of the earth.</hi>
+            </p>
+            <p>In the dayes of <hi>King Aſa</hi> there was war, not onely a<g ref="char:EOLhyphen"/>gainſt<note place="margin">2 Chron. 14. 9, 10.</note> gainſt <hi>Judah,</hi> but in all Countries thereabout. It was with them then in that part of the world, as it is now with us in Europe. <hi>No peace was to him that went out, or came</hi>
+               <note place="margin">2 Chro. 15. 6.</note> 
+               <hi>in, but great vexations were upon all the Inhabi<g ref="char:EOLhyphen"/>tants of thoſe Countries. Nation</hi> was deſtroyed of <hi>Nation,</hi> and <hi>City</hi> of <hi>City, God</hi> did <hi>vex them</hi> with all adverſities.</p>
+            <p>The like Generall puniſhing of the Nations by war, we read of in the Propheſie of <hi>Jeremiah,</hi> which ended in the<note place="margin">Jer. 25.</note> deſtraction of <hi>Babilon.</hi>
+            </p>
+            <p>The like, when after Chriſts death, <hi>Jeruſalem</hi> was de<g ref="char:EOLhyphen"/>ſtroyed.<note place="margin">Mat. 24. 6, 7.</note>
+            </p>
+            <p>God hath his <hi>houres of temptation to bring upon all</hi>
+               <note place="margin">Rev. 3. 10.</note> 
+               <hi>the world, to try them that dwell therein,</hi> ſometimes in one kinde of tryall, ſometimes in another.</p>
+            <p>At this time God is viſiting of <hi>Europe</hi> and moſt of the <hi>Chriſtian world</hi> with the fearfull Judgement of War.</p>
+            <p>About ſix and twenty years ſince there was Peace and great proſperity in moſt, if not in all, parts of <hi>Europe:</hi> but the inhabitants thereof; nay, the Churches of God ſer<g ref="char:EOLhyphen"/>ved not the Lord, with joyfulneſſe and gladneſſe of heart, for that their abundance of all things. They corruped their wayes, and became notoriouſly wicked in all ſorts of abhomi<g ref="char:EOLhyphen"/>nations. The Religion of the beſt, take them in the generality, was but a <hi>form of Godlineſſe</hi> without <hi>power,</hi> ſuch as the Apoſtle Propheſied of, ſhould be in the laſt times, which temper in Religion God hateth. And <hi>as they were increa<g ref="char:EOLhyphen"/>ſed</hi>
+               <note place="margin">2 Tim. 3. 1. 5<g ref="char:punc">▪</g>
+               </note>
+               <pb facs="tcp:121185:5"/>
+               <hi>ſo they ſinned.</hi> Wherefore the Lord changed his countenance towards us; and hath taken the Rod and ſword in hand to correct and puniſh us.</p>
+            <p>He cauſed the fire of war, the fire of his anger to begin to burn and break out in <hi>Bohemia,</hi> and in the <hi>Palatinate,</hi> (none of the worſt of the Churches) yea it is run through all <hi>Germany,</hi> and where is it not now in <hi>Europe?</hi> It is now, to our woe, come into <hi>Ireland</hi> and <hi>England,</hi> and <hi>Scotland</hi> is not altogether free.</p>
+            <p>This war layeth all waſt before it in other Countries: How can we think it ſhould do any otherwiſe in <hi>Eng<g ref="char:EOLhyphen"/>land?</hi>
+            </p>
+            <p>The Symptomes of a deſolation that ſhall over-run this kingdome are too too manifeſt: It was a true ſaying of our Saviour, <hi>A Kingdome divided againſt it ſelf, is brought to deſolation.</hi> Do not our diviſions continue?<note place="margin">Mat. 12. 25.</note> do not they increaſe? Diviſions in the <hi>Church,</hi> Diviſi<g ref="char:EOLhyphen"/>ons in the <hi>Common-wealth,</hi> Diviſions in the <hi>Armie,</hi> Diviſions in <hi>Counſells,</hi> Diviſions <hi>every where;</hi> a<g ref="char:EOLhyphen"/>mongſt <hi>all ſorts</hi> in the Kingdome, Whilſt God doth thus divide us, and doth in his juſt judgement, give us over thus to make Diviſions, certainly he meaneth that by our ſelves we ſhall be deſtroyed. We would not in time of Peace agree to<g ref="char:EOLhyphen"/>gether to ſerve him with one conſent; he will therefore that we ſhall agree in this, By our diſ-agreements to deſtroy and conſume one another.</p>
+            <p>I beſeech you take into your ſerious conſideration thoſe Symptomes which argued our utter ruine and deſtruction to be neere, if not ſpeedily prevented; as you heard them, ſo you may help your memories, if you can gain time to read them in the enſuing Sermon, which as it was Preached, ſo now is Printed by your Order.</p>
+            <p>
+               <pb facs="tcp:121185:5"/>Are not <hi>gray haires upon us here and there</hi> already?<note place="margin">Hoſ. 7. 9.</note> Is not much of our <hi>ſtrength devoured?</hi> Are we blind? Or will we ſtill winke with our eyes, and not ſee? And not know all this? <hi>Doth not our wickedneſſe</hi> (which aboundeth more and more in <hi>England,</hi> even while we are under the Rod) <hi>teſtifie unto our faces, that we do not return to the Lord our God; and ſeeke him</hi> with our whole heart for all this?</p>
+            <p>When you were pleaſed to call me to go before you, and to bear a part with you, in your day of Faſt and ſo<g ref="char:EOLhyphen"/>lemn Humiliation; I looked upon our Nation in this ill Condition, I knew no better Subject to Treate of, to be ap<g ref="char:EOLhyphen"/>plyed to your ſelves and to all that then heard me, then to teach you, or atleaſt to remember you of a timely and pro<g ref="char:EOLhyphen"/>fitable Uſe-making of the Rod of God, which is now ſo ſore upon us; Namely, to learn what God teacheth us by it.</p>
+            <p>To be ſhewed our danger in which we are, and the neere<g ref="char:EOLhyphen"/>neſſe of our ruine, for our ſinnes; will be no diſcourage<g ref="char:EOLhyphen"/>ment unto you in the work of ſtanding in the gap, and<note place="margin">Pſal. 106. 23.</note> making up the breach, in which you have ſo long ſtood; and which with unweariedneſſe and undauntedneſſe you have (to your eternall Renown) endeavoured, maugre all the mountains of oppoſition and difficulties which you have met withall. But it ſhould rather put an edge to your cou<g ref="char:EOLhyphen"/>rage, as all difficulties do to men of courage and true va<g ref="char:EOLhyphen"/>lour. You are, <hi>Honoured and worthy Patriots,</hi> the re<g ref="char:EOLhyphen"/>pairers of our breaches, under God: Be ye <hi>Moſeſſes,</hi> and <hi>Phineaſſes</hi> to our <hi>Iſrael.</hi> When <hi>Iſrael</hi> ſinned in the matter of the golden Calf, God ſaid, <hi>He would deſtroy them, had</hi>
+               <note place="margin">Pſal. 106. 23.</note> 
+               <hi>not</hi> Moſes <hi>his choſen ſtood before him in the breach, to turn away his wrath, leſt he ſhould deſtroy them:</hi>
+               <pb facs="tcp:121185:6"/>
+When <hi>Phineas executed Judgement the plague was</hi>
+               <note place="margin">Pſal. 106. 30.</note> 
+               <hi>ſtayed;</hi> you are called not extraordinarily as he, but in an ordinary way to do it: God when he foretold his purpoſe to deſtroy the Kingdome of <hi>Judah,</hi> did look for ſuch as you are, to <hi>make up the hedge and ſtand in the gap, before</hi>
+               <note place="margin">Ezek. 22. 30.</note> 
+               <hi>the Lord, that he might not deſtroy it.</hi>
+            </p>
+            <p>Theſe Worthies by <hi>prayer</hi> held Gods hands from ſtriking,<note place="margin">Exod. 32. 10, 27.</note> and by <hi>executing judgement</hi> for him, did ſave the King<g ref="char:EOLhyphen"/>dome, did ſave the people from deſtruction.</p>
+            <p>Whatſoever the event may prove, Noble Sirs, <hi>Let the fear of the Lord be upon you;</hi> Be ſtrong: <hi>Let</hi>
+               <note place="margin">2 Chron. 15. 7.</note> 
+               <hi>not your hands be weak,</hi> deal couragiouſly, <hi>The Lord</hi> will be <hi>with the good;</hi> and <hi>your work ſhall be re<g ref="char:EOLhyphen"/>warded;</hi>
+               <note place="margin">2 Chron. 19. 11.</note> and you may expect a happy iſſue: But how<g ref="char:EOLhyphen"/>ever, it is honourable for a Souldier to dye in maintaining, or making up the breach; <hi>and your work ſhall be with the Lord,</hi> and if you ſave not the Kingdome, you ſhal without<note place="margin">Ezeck. 14. 18, 20.</note> fail (as it is ſayd of <hi>Noah, Job, and Daniel</hi>) ſave your own ſouls, and may expect ſome temporall deliverance.</p>
+            <p>Neither ſhould the knowledge of our likelineſſe, and neereneſſe to ruine diſanimate any, or ſhould it weaken the hands of the people of the Land: For when God ſent <hi>Jeremiah</hi> to Propheſie againſt <hi>Jeruſalem</hi> that he would deſtroy it, and that they ſhould be carried Captive, this is the inference from it: <hi>Therefore amend your wayes</hi>
+               <note place="margin">Jer. 25. 13.</note> 
+               <hi>and your doings, and obey the voyce of the Lord your God, and the Lord will repent him of the evill</hi>
+               <note place="margin">Jer. 18. 7, 8.</note> 
+               <hi>that he hath pronounced againſt you.</hi>
+            </p>
+            <p>Moreover, let it be conceived that God is peremptorily determined to deſtroy a Nation, which we cannot be cer<g ref="char:EOLhyphen"/>tain of, though we can ſee a Nation deſerving it, and is neer to it; For God is not limitted, nor can be preſcribed
+<pb facs="tcp:121185:6"/>
+to do what in like caſe he hath done, yet it will be pro<g ref="char:EOLhyphen"/>fitable for a people to be warned of it: For they that fear God, will thereupon endeavour to prevent it; or to<note place="margin">Ezek. 9. 4.</note> prepare for it. That making their own peace with God, they may be marked for ſafety as thoſe in <hi>Ezekiel</hi> were, and may make their adreſſes to God, as to a ſafe and ſtrong tower, thereby entring into the chambers ſpoken of in <hi>Iſaiah,</hi> and ſhut the doores about them; and hide themſelves for a little-moment, that is, caſt themſelves upon Gods Providence and Protection, ſecuring themſelves<note place="margin">Iſai. 26. 20.</note> in him, untill the indignation of the Lord be over<g ref="char:EOLhyphen"/>paſt.</p>
+            <p>No man can apprehend miſery and deſtruction more certainly to come upon a people, then the Prophet <hi>Hab<g ref="char:EOLhyphen"/>bacuk</hi> did, at which, at the firſt hearing he was much terrified: yet it was much for his good and advantage. For it did cauſe him to humble himſelf before God, and to ſeek his face, <hi>That he might reſt in the day of</hi>
+               <note place="margin">Hab. 3. 16.</note> 
+               <hi>trouble,</hi> when the <hi>Chaldeans</hi> ſhould come up and in<g ref="char:EOLhyphen"/>vade them with his Troops; Through faith he could ſee ſafety, and matter of comfort and joy in God: ſo that he could ſay, though he ſhould be deprived of all livelihood, and means of ſubſiſtance for his perſon and outward man; <hi>Yet I will rejoyce in the Lord, I will joy in the God</hi>
+               <note place="margin">Hab. 3. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>of my Salvation, &amp;c.</hi>
+            </p>
+            <p>I have here given you ſome account of the choiſe of the Subject, whereof in my Sermon I ſpake unto you, and have proſecuted more fully ſomething which I did then but hint unto you; I take the boldneſſe to publiſh it and put it forth under the ſhelter of your honourable pa<g ref="char:EOLhyphen"/>tronage.</p>
+            <p>I have onely this maine ſuite unto you, that you would
+<pb facs="tcp:121185:7"/>
+continue reſolute for God, and his true Religion, for the Kings Majeſties juſt Rights, for the Laws of the King<g ref="char:EOLhyphen"/>dome, and just Liberties to which we are all born. And the Lord of Hoaſts and King of kings, our good God, He bleſſe and proſper the work in your hands, wherewith you are intruſted, The Lord proſper your handy work: So prayeth dayly</p>
+            <closer>
+               <signed>The unworthieſt of thoſe, which you have imployed to ſerve you in the Lord,
+HENRY SCUDDER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:121185:7"/>
+            <head>A Sermon at the monethly Faſt, <hi>Octob.</hi> 30. 1644. BEFORE the Honourable Houſe of COMMONS.</head>
+            <epigraph>
+               <bibl>MICAH 6. 9.</bibl>
+               <q>The voyce of the Lord cryeth to the City, and the man of wiſedome ſhall ſee thy Name: hear ye the rod, and who hath appointed it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Word of the Lord came to the Prophet <hi>Mi<g ref="char:EOLhyphen"/>cah</hi> in the dayes of <hi>Jotham, Ahas,</hi> and <hi>Hezekiah, Kings of Judah.</hi> This word concerned <hi>Samaria,</hi> and <hi>Jeruſalem,</hi> the head Cities of the Kingdomes of <hi>Iſrael</hi> and <hi>Judah.</hi>
+            </p>
+            <p>The word now read unto you, concerneth us, as well as them; being written for <hi>our learning, and for the admo<g ref="char:EOLhyphen"/>nition</hi>
+               <note place="margin">Rom. 15. 4.</note> 
+               <hi>of us, upon whom the ends of the world are come</hi> according as we are like to them in their ſin, and in their condition.<note place="margin">1 Cor. 10. 11.</note>
+            </p>
+            <p>In this Propheſie, the <hi>Lord</hi> by this Prophet ſetteth before theſe Cities and Kingdomes the many and great ſinnes, which, with an high hand, they had committed againſt him. And withall fore<g ref="char:EOLhyphen"/>telleth them of thoſe <hi>Judgements</hi> which he would certainly bring upon them; if they continued in thoſe their ſins. And that at laſt, both kingdomes ſhould be deſtroyed, and captivated by their enemies, the <hi>Aſſyrians</hi> and <hi>Chaldeans.</hi> But withall to ſupport, and comfort, the hearts of the faithfull that were found in thoſe kingdomes, he foretelleth the temporall deliverance of <hi>Judah</hi> out of the <hi>Babiloniſh</hi> Captivity, alſo the everlaſting deliverance of the Church of God, to be gathered out of all Nations, through the
+<pb n="2" facs="tcp:121185:8"/>
+promiſed <hi>Meſſiah,</hi> the Lord Jeſus Chriſt.</p>
+            <p>The ſins, whereof he would convince, and for which he de<g ref="char:EOLhyphen"/>nounceth <hi>Judgement</hi> againſt theſe Kingdomes, were, extream op<g ref="char:EOLhyphen"/>preſſion by all, from the <hi>Prince</hi> to the <hi>meaneſt,</hi> according as they<note place="margin">Micah 2. 1, 2.</note> had power in their hand. <hi>The heads thereof judging for reward: The Prophets and Prieſts were prophane and wicked,</hi> all for their<note place="margin">Micah 3. 11.</note> covetouſneſſe; teaching for hire, and divining for money. They were very licentious, promiſing liberty; ſaying, <hi>Peace, peace, to</hi>
+               <note place="margin">Jer. 6. 13, 14.</note> 
+               <hi>the wicked: The Prophets propheſying falſly, and the Prieſts bearing</hi>
+               <note place="margin">Jer. 5. 31.</note> 
+               <hi>rule by their means, and the people loved to have it ſo.</hi> They were alſo Idolaters, Superſtitious, will-worſhippers, ſilencers, (as much as they could) of the good Prophets, and Miniſters of the Word: ſaying, to the <hi>Scers, ſee not; and to the Prophets, Propheſie not unto us</hi>
+               <note place="margin">Iſa. 30. 10.</note> 
+               <hi>right things, ſpeak to us ſmooth things, propheſie deceits.</hi> They did ſet up and countenance falſe and wicked Prophets; They, notwith<g ref="char:EOLhyphen"/>ſtanding theſe ſinnes, and other their abhominations; and not<g ref="char:EOLhyphen"/>withſtanding the ſevere threats of God, were <hi>preſumptuouſly ſe<g ref="char:EOLhyphen"/>cure,</hi> becauſe they had the <hi>Temple of the Lord,</hi> a ſigne of his pre<g ref="char:EOLhyphen"/>ſence amongſt them; and becauſe they profeſſed the name and Re<g ref="char:EOLhyphen"/>ligion of God, having a forme of Godlineſſe: they promiſed to themſelves impunity, and freedome from the deſtroying Judge<g ref="char:EOLhyphen"/>ment, They would yet as the Prophet ſaith, <hi>Lean upon the Lord</hi>
+               <note place="margin">Micah 3. 11.</note> 
+               <hi>and ſay, Is not the Lord among us? none evill can come upon us.</hi>
+            </p>
+            <p>All which ſins of theirs are aggravated by their ingratitude to<g ref="char:EOLhyphen"/>wards God, who had been good unto them, and had done great and wonderfull things for them, from <hi>Shittim</hi> to <hi>Gilgall,</hi> even<note place="margin">Micah 6. 3, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 5.</note> from the miraculous leading them forth out of <hi>Egypt</hi> through the Wilderneſſe, till he brought them into the Land of <hi>Canaan,</hi> and untill this day.</p>
+            <p>At the time of this Propheſie the <hi>Kingdome of Judah</hi> was under the <hi>rod</hi> of Gods Judgements. For in the dayes of <hi>Ahas, Pekah</hi> the ſon of <hi>Remaliah</hi> King of <hi>Iſrael,</hi> and <hi>Rezin</hi> King of <hi>Siria</hi> were<note place="margin">2 King 16. 5.</note> confederate, and came againſt <hi>Judah,</hi> and came up even to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> and though they did not prevaile to take <hi>Jeruſalem,</hi> yet God delivered him and the people into the hand of the King of <hi>Syria,</hi> ſo that <hi>They ſmote him, and carried away a great multitude of them</hi>
+               <note place="margin">2 Chron. 28. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>captive, and brought them to Damaſcus. And he was alſo delivered into the hand of the King of Iſrael, who ſmote him with a great
+<pb n="3" facs="tcp:121185:8"/>
+ſlaughter;</hi> for, <hi>one hundred and twenty thouſand, of the men of</hi> Ju<g ref="char:EOLhyphen"/>dah <hi>were ſlain in one day, which were all valiant men.</hi> At which time<note place="margin">2 Chron. 28. 5, 6, 8.</note> 
+               <hi>the Children of Iſrael carried away Captive of their brethren, two hundred thouſand women, ſons and daughters, and took much ſpoil from them, and brought the ſpoil to Samaria.</hi> In his dayes al<g ref="char:EOLhyphen"/>ſo<note place="margin">2 Chron. 28. 17.</note> the <hi>Edomites had come and ſmitten Judah, and carried away captives.</hi> The <hi>Philiſtims alſo invaded their Cities and took many of them, with their villages, and dwelt there. God brought Judah very low at that time, becauſe they had tranſgreſſed ſore againſt the Lord.</hi> This I have premiſed to leade you unto the Text, and to<note place="margin">2 Chron. 28. 19.</note> give ſome light, for the better underſtanding of it.</p>
+            <p>Do we not as in a glaſſe, ſee <hi>our ſelves,</hi> in this kingdome of <hi>Judah,</hi> wee being too to like them in their ſin, beginning alſo to be too like to them; nay, in a worſe condition then they were, if the Lord, as he hath begun, ſhall go on to powre out his wrath upon us.</p>
+            <p>The likeneſſe of our condition now, with theirs then, hath given me occaſion to make choiſe of this Scripture, to ſpeak of it, and to ſpeak to you by it.</p>
+            <p>In theſe words God doth <hi>warn</hi> and <hi>adviſe</hi> his people what they<note place="margin">The Text opened.</note> ſhould do, now they were under the rod of his anger, and were like to be more ſorely puniſhed according as it had been denoun<g ref="char:EOLhyphen"/>ced againſt them by his Prophets for their ſins. That whereas he had by fair and loving means, ſpoken to them, and warned them by his Prophets, and had gently ſmitten them by the rod of his mouth, that he might reclaim them, and they were not ſenſible of his Word, to obey it: He now thinketh it beſt to teach and warn them by the rod of his hand, and calleth upon them to hear and learn to be reformed by it.</p>
+            <p>Now concerning this <hi>admonition</hi> and Councell given, the Pro<g ref="char:EOLhyphen"/>phet doth three things.</p>
+            <p>Firſt, to gain attention, and that this Word might be entertained with the greater Authority, he ſheweth, <hi>who it was that ſpake unto them.</hi>
+            </p>
+            <p>Secondly, <hi>who they were that would ſee God in his Judgements,</hi> and would hear his voyce, and would learn by his correction.</p>
+            <p>Thirdly, what it is he warneth them of, and adviſeth them to do.</p>
+            <p>
+               <pb n="4" facs="tcp:121185:9"/>Every ſentence in this verſe is diverſly rendred by Tranſlators, and Interpretors; each of them two or three wayes: but they agree in their ſcope, namely, That God would have them to hear him, and turn to him, that the judgement threatned might not come upon them.</p>
+            <p>I have diligently conſidered the ſeverall readings, and compared them with the Originall, obſerving the context and ſcope of the place, and do keep to the laſt Tranſlation, as it is now before you. If I ſhould rehearſe them all, and give reaſon why I make choiſe of this reading rather than other, it would take up very much time, and hinder the delivering of things more needfull.</p>
+            <p>Firſt then, the <hi>Voyce of the Lord cryeth to the City:</hi> in this ſen<g ref="char:EOLhyphen"/>tence we are to obſerve who ſpeaketh, and in what manner he ſpeaketh, and to whom.</p>
+            <p>
+               <hi>The Voyce of the Lord,</hi> that is, God by his Prophet <hi>Micah</hi> utte<g ref="char:EOLhyphen"/>reth his voyce.</p>
+            <p>
+               <hi>Cryeth,</hi> this ſheweth the ſeriouſneſſe and earneſtneſſe of God, in warning his people, the Prophet <hi>lifting up his voyce like a Trum<g ref="char:EOLhyphen"/>pet,</hi>
+               <note place="margin">Iſa. 58. 1.</note> that all might underſtand their danger, and might know what God would have them to do;</p>
+            <p>
+               <hi>To the City,</hi> ſome underſtand <hi>Samaria,</hi> the Metropolis of the Kingdome of <hi>Iſrael:</hi> but others underſtand it better of <hi>Jeruſalem,</hi> the chief City of the Kingdome of <hi>Judah.</hi> The Prophet was to cry aloud to awaken them out of the deep ſleep of ſecurity where<g ref="char:EOLhyphen"/>in they lay, notwithſtanding he had threatned and now began to puniſh them.</p>
+            <p>Secondly, in declaring who would hear this voyce, and learn of the rod, he implyeth that there were not many; onely the <hi>man of wiſdome, ſubſtance</hi> in proper ſpeech in <hi>Hebrew.</hi> Now be<g ref="char:EOLhyphen"/>cauſe<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> a fooliſh man is empty, and hath nothing in him, but the wiſe have ſomething, yea <hi>much</hi> in them, therefore this word is in Scripture uſed for <hi>Wiſdome,</hi> ſo in this place, the <hi>abſtract</hi> being uſed<note place="margin">Job 6. 13.</note> for the <hi>concrete,</hi> the <hi>man of Wiſdome,</hi> that is, he that is wiſe with<note place="margin">Job 12. 16.</note> godly wiſedome, a man endued with the true knowledge and fear<note place="margin">Prov. 3. 21.</note> of God. This the Prophet ſpeaketh by way of complaint, and doth by an <hi>Apoſtraphe</hi> turn his ſpeech to God, as if he had ſaid;<note place="margin">Prov. 8. 14.</note> Lord, thou cryeſt aloud by us thy Prophets, to the City, but few have regarded or yet will regard it; Onely the wiſe they will
+<pb n="5" facs="tcp:121185:9"/>
+               <hi>See thy Name;</hi> they will underſtand thee in thy Word and works, they will underſtand thy will thereby, and give glory to thy Name in accepting their puniſhment, and turning to thee that doeſt ſmite them.</p>
+            <p>Thirdly, the thing which God doth admoniſh them of, is two<g ref="char:EOLhyphen"/>fold: 1. To <hi>hear the rod,</hi> what it ſpeaketh: which that they might the better do, he addeth, 2. <hi>and who hath appointed it.</hi>
+            </p>
+            <p>
+               <hi>Hear the rod,</hi> that is, the judgements and aſſlictions you now feel, and the ſcourge or judgement threatned, which you have cauſe to fear. God hath divers rods; as, the <hi>rod of his mouth;</hi>
+               <note place="margin">Iſa. 11. 4.</note> this is the Word: or, the <hi>rod of his hand,</hi> wherewith he doth af<g ref="char:EOLhyphen"/>flict and puniſh; and that is either the <hi>rod of correction,</hi> called, the<note place="margin">Pſil. 89. 32. 2 Sam. 7. 14. Pſal. 2. 9.</note> 
+               <hi>rod of men;</hi> or, the <hi>iron rod,</hi> the <hi>rod of deſtruction:</hi> What they then felt, was his rod of correction; what was threatned, and was ſhaken over them, was the rod of deſtruction.</p>
+            <p>It is not a proper expreſſion to ſay, <hi>Hear the rod;</hi> the <hi>rod</hi> pro<g ref="char:EOLhyphen"/>perly is <hi>felt,</hi> and the <hi>word</hi> is <hi>heard:</hi> But as thoſe acts of hearing and feeling are in the expreſſions thereof borrowed one of ano<g ref="char:EOLhyphen"/>ther: they are very <hi>emphaticall.</hi> Men never do profitably hear the <hi>word,</hi> except they feel the ſtroke of it; and men do never pro<g ref="char:EOLhyphen"/>fitably feel the <hi>rod,</hi> except they hear the voice of it. When the <hi>word</hi> is ſo heard, that it ſmites and affects the heart, to leave a print<note place="margin">Acts 2. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and impreſſion upon it, then, and not till then, doth it work ef<g ref="char:EOLhyphen"/>fectually. So the <hi>rod,</hi> when it is ſo felt, that Gods will is under<g ref="char:EOLhyphen"/>ſtood by it, which is to hear the voice of it, then it alſo will work effectually. If men feel not the <hi>word,</hi> they hear it in vain: ſo they that feel the <hi>rod,</hi> and hear it not, do feel it in vain, and to no good purpoſe. There are too many that hear the word, but feel it not; and too many that feel the rod, but hear it not. To hear the <hi>rod,</hi> then, is to learn and underſtand why God ſtriketh, and what he would have them to do that are ſtricken.</p>
+            <p>
+               <hi>Who hath appointed it?</hi> Not man, who is <hi>Gods rod,</hi> or <hi>Gods ſword,</hi> but it is God; neither do theſe judgements come by <hi>chance,</hi>
+               <note place="margin">Iſai. 10. 5. Pſal. 17. 13.</note> but they are <hi>appointed</hi> and ordered by God. This is firſt to be heeded and underſtood by the voice of the <hi>rod,</hi> namely, <hi>who ſmi<g ref="char:EOLhyphen"/>teth;</hi> and then men ſhall underſtand <hi>for what he ſmiteth,</hi> and what he would have them to do when they are ſmitten: Then they will ſee that it is their duty, and that it ſhall be their wiſedom to return
+<pb n="6" facs="tcp:121185:10"/>
+to him that ſmiteth them, and to make their peace with him.<note place="margin">Iſa. 9. 13.</note>
+            </p>
+            <p>Having given the ſenſe, I haſte to the Obſervations. And firſt, whereas it is ſaid, The <hi>voice of the Lord</hi> crieth to the City: what the <hi>Prophet ſpake,</hi> is called <hi>Gods voice;</hi> we are hence to obſerve, That,</p>
+            <p>
+               <hi>When the Prophets and Miniſters of God ſpeake to any people</hi>
+               <note place="margin">
+                  <hi>Doct.</hi> 1.</note> 
+               <hi>from God, in his Name, it is the voice of God; God, in and by them, ſpeaketh.</hi>
+            </p>
+            <p>Proof hereof is plentifull in the Prophets, who (to raiſe at<g ref="char:EOLhyphen"/>tention, and to win authority to what they ſpake, that it might be received and obeyed) ſay, <hi>Hear the word of the Lord;</hi> or, <hi>Thus ſaith the Lord;</hi> or, <hi>The mouth of the Lord hath ſpoken.</hi> Such ex<g ref="char:EOLhyphen"/>preſſions as theſe, are many hundred times in the Scripture. Take one full proof for all: <hi>He ſpake by the mouth of his holy Prophets</hi>
+               <note place="margin">Luke 1. 70.</note> 
+               <hi>which have been ſince the world began.</hi> Though it was their mouth, it was Gods ſpeech, it was Gods voice.</p>
+            <p>They are, by way of Calling and Office, <hi>Gods ſtewards,</hi> they are<note place="margin">Reaſon.</note> 
+               <hi>Ambaſſadours</hi> and <hi>Meſſengers of the Lord of Hosts.</hi> They receive<note place="margin">1 Cor. 3. 1. Mark 1. 2. Mal. 2. 7. 2 Cor. 4. 19, 20</note> the word at his mouth, and it is committed to them, that in Gods and Chriſts Name and ſtead, they ſhould ſpeak to thoſe to whom he doth ſend them: whether it be by information, intreatie, com<g ref="char:EOLhyphen"/>mand, threat or promiſe.</p>
+            <p>To apply this, I deſire that every one of you would take this truth into ſerious conſideration, that you may undoubtedly believe,<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe.</note> that what the Prophets and Miniſters formerly ſpake, and the Mi<g ref="char:EOLhyphen"/>niſters of God now ſpeak to you from him, in his Name; that <hi>God himſelf</hi> ſpeaketh to you, in and by them. Did you indeed be<g ref="char:EOLhyphen"/>lieve this, you would profit by this and all other Sermons.</p>
+            <p>If it be objected, The Prophets and Apoſtles were immediately<note place="margin">Object.</note> inſpired of God, and had an immediate Commiſſion from God, and they could not, neither did they erre; but Miniſters now are ſubject to errour.</p>
+            <p>I anſwer, We do not compare ordinary Miniſters with the<note place="margin">Anſw.</note> Prophets and Apoſtles, who could not erre: But even then they had <hi>falſe Prophets</hi> amongſt them, as there will always be ſome<note place="margin">2 Pet. 2. 1.</note> 
+               <hi>falſe Teachers</hi> in the Church: And even then they were to try the Prophecies, whether they were of God or no. Reade <hi>Deut.</hi> 13. 2, 3, 5. and <hi>Deut.</hi> 18. 21. and yet were to receive the ſayings of the
+<pb n="7" facs="tcp:121185:10"/>
+Prophets as the word of God.</p>
+            <p>Beſides, They had ordinary Miniſters, who had not immediate inſpiration, namely, the Prieſts, who were as ſubject to errour as the <hi>Miniſters of the Goſpel are;</hi> and Miniſters now have as <hi>good a Calling</hi> to ſpeak from God in his Name, as they had. The people were to <hi>receive the Law,</hi> the word of God, at their mouth; for they were <hi>Meſſengers of the Lord of Hosts,</hi> as well as the Pro<g ref="char:EOLhyphen"/>phets,<note place="margin">Mal. 2. 7.</note> to deliver what they received from God, in the word writ<g ref="char:EOLhyphen"/>ten by the Prophets, as were the Prophets, who received what they wrote, by immediate revelation from God. And <hi>ordinary Miniſters of the Goſpel</hi> are in the Scripture ſaid to <hi>ſpeak to men by</hi>
+               <note place="margin">1 Theſſ. 4. 15. Heb 13. 7.</note> 
+               <hi>the word of the Lord,</hi> and to <hi>ſpeak the word of the Lord,</hi> as well as the Prophets, who were immediately inſpired of God.</p>
+            <p>The people then had a <hi>Test,</hi> a <hi>Rule,</hi> to try whether that which the Meſſengers of God ſpake were his Meſſage or no: <hi>To the Law and to the Teſtimony,</hi> ſaith God, <hi>if they ſpeak not according to this</hi>
+               <note place="margin">Iſa. 8. 20.</note> 
+               <hi>word, it is becauſe there is no light in them:</hi> But if they ſpake ac<g ref="char:EOLhyphen"/>cording to that word, it was to be received as the very word of God.</p>
+            <p>God hath left as ſure a means, nay, in reſpect of us, a more cer<g ref="char:EOLhyphen"/>tain way of knowing the will of God, namely, the <hi>Scripture of</hi>
+               <note place="margin">2 Pet. 1. 19.</note> 
+               <hi>the Prophets and Apoſtles,</hi> whereby Miniſters may know what God would have ſpoken in his Name; and people may know whether God ſpeak by them or no. Therefore all men are bid <hi>to trie the ſpirits,</hi> the Doctrines, <hi>whether they be of God or no;</hi> as the <hi>Bereans</hi>
+               <note place="margin">1 Joh. 4. 1. Acts 17. 11.</note> did, <hi>ſearching the Scripture daily, whether the word ſpoken by Paul were ſo;</hi> and finding it to be ſo, they received it as the <hi>very word of God,</hi> and <hi>believed.</hi>
+            </p>
+            <p>Wherefore, though it be true that it is poſſible that Miniſters may ſometimes erre, both in their Doctrines and Application; and when they erre, that is to be rejected, becauſe it is not the will and word of God; yet they are to be heard as men ſpeaking in the Name and ſtead of God, and what they ſpeak according to his Word, is to be received as if God himſelf ſpake unto you.</p>
+            <p>I do with all earneſtneſſe preſſe this upon you, that you be con<g ref="char:EOLhyphen"/>vinced of this truth, ſo as undoubtedly and firmly to believe it. I mean not onely the <hi>Doctrines</hi> we teach, whereby we ſhew you what is true, what is falſe, what is good, what is evil, are to be re<g ref="char:EOLhyphen"/>ceived
+<pb n="8" facs="tcp:121185:11"/>
+as if God ſpake them himſelf; but all <hi>reproofs</hi> of your vi<g ref="char:EOLhyphen"/>ces, all <hi>redargutions</hi> and <hi>confutations</hi> of your errours, all <hi>exhortati<g ref="char:EOLhyphen"/>ons</hi> unto, and <hi>inſtructions in righteouſneſſe;</hi> alſo all <hi>threats, promi<g ref="char:EOLhyphen"/>ſes,</hi> and <hi>conſolations,</hi> when they are all applied <hi>according to the Do<g ref="char:EOLhyphen"/>ctrine of truth and godlineſſe,</hi> they are to be received as reproofs, corrections, exhortations, threats, promiſes and conſolations of God: For the word is profitable for all theſe purpoſes, as you may reade, 1 <hi>Tim.</hi> 3. 10. and 2 <hi>Tim.</hi> 4. 2.</p>
+            <p>I do therefore now, as I have juſt cauſe, <hi>reprove</hi> a great fault and<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 2.</note> ſin in moſt men, who when they come to hear, they come not to hear <hi>God</hi> ſpeak, but <hi>man:</hi> and when they hear, they receive what they hear but as the word of man; they <hi>hear</hi> not the <hi>voice</hi> of <hi>God,</hi> they receive it not as the <hi>Word of God.</hi> I would to God that you would now hear God reproving you for this great ſin.</p>
+            <p>Moſt hearers of the Miniſters of the <hi>word of God,</hi> receive and regard what they teach, but according as they have an opinion and eſteem of the man that ſpeaketh. As men are endued with rare parts and gifts, and ſhew themſelves witty and learned (as carnall men count learned) if they ſhew much of this, in rarity of invention and elocution, in that <hi>excellency of ſpeech and wiſe<g ref="char:EOLhyphen"/>dom,</hi> with the <hi>entiſing words of mans wiſedom,</hi> which <hi>wiſe, eloquent</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 2. 4.</note> 
+               <hi>and learned Paul</hi> purpoſely ſhunned; their Sermons do take with them accordingly: but commonly, their fancies, and not their hearts, are taken therewith: Thoſe who thus hear, may receive all that is of and from <hi>man</hi> in that Sermon, but little or nothing of that which is of and from <hi>God</hi> in it. Therefore many hear much, and learn little; they are not <hi>taught of God</hi> when they ſo hear, becauſe they do not <hi>hear God</hi> ſpeak in him that teacheth.</p>
+            <p>Theſe men ſhould humble themſelves before God, for that they have not heeded nor regarded God ſpeaking to them by his Mini<g ref="char:EOLhyphen"/>ſters. God complaineth of and reproveth all ſuch hearers: <hi>I ſent all my Prophets, but they hearkned not to me,</hi> ſaith the Lord: He ſaith<note place="margin">Jer. 7. 25, 26.</note> not, They hearkned not to my Prophets; but, <hi>They hearkned not to me.</hi> Know you, that a time will come when you ſhall be called to an account for your hearing: if you have not heard and obeyed, but have deſpiſed what the Miniſters of God, though frail and mean men, have ſpoken unto you, <hi>in the Name of the Lord;</hi> you<note place="margin">Luke 10. 16.</note> ſhall anſwer for it, as if <hi>God himſelf</hi> had immediately ſpoken un<g ref="char:EOLhyphen"/>to
+<pb n="11" facs="tcp:121185:11"/>
+you; for you have ſlighted and deſpiſed him: according to that of our Saviour; <hi>He that heareth you, heareth me; and he that</hi>
+               <note place="margin">Luke 10. 16.</note> 
+               <hi>deſpiſeth you, deſpiſeth me: and he that deſpiſeth me, deſpiſeth him that ſent me.</hi>
+            </p>
+            <p>Let me therefore intreat and perſwade you, that you will both now, while you are hearing of me, and when hereafter the Lord ſhall pleaſe to ſpeak unto you by any other of his Meſſengers, that you would receive what is ſpoken from God to you by us, not as the word of <hi>man,</hi> but as it ſhall be found to be indeed the <hi>Word of God.</hi> See and hear God in his Miniſters <hi>inſtructing, reproving, commanding</hi> and <hi>exhorting,</hi> when you are inſtructed, reproved, commanded and exhorted by them; remembring and conſidering well, that they are <hi>Gods Ambaſſadours,</hi> that come not in their own name, but in Gods Name.</p>
+            <p>If before you hear, you would, as <hi>Cornclius</hi> did, ſet your ſelves<note place="margin">Acts 10. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> before God, in the preſence of God, to hear, not what a <hi>Peter</hi> ſhould ſay; but whatſoever <hi>Peter</hi> ſhould <hi>be commanded of God to ſpeak unto you;</hi> then the Word would be powerfull to convert you, and ſave you, as it did him, and thoſe that with like faith heard<note place="margin">Acts 10. 44.</note> 
+               <hi>Peter</hi> preach the Word unto them.</p>
+            <p>If a mean man bring a Meſſage or a Command from a King, or from any that have power over us, be it a Conſtable, or other Officer, we do not receive the Meſſage or the Command accord<g ref="char:EOLhyphen"/>ing to the meanneſſe or greatneſſe of the man that bringeth it, but according to the eſteem we have, and obedience we owe to him whoſe Meſſage and Command it is. When the <hi>Theſſalonians</hi> re<g ref="char:EOLhyphen"/>ceived the Word thus, <hi>not as the word of man, but as it was indeed</hi>
+               <note place="margin">1 Theſſ <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13.</note> 
+               <hi>the Word of God, then it wrought in them mightily.</hi>
+            </p>
+            <p>Did you believe and conſider that it is no other but the <hi>voice</hi> and <hi>word</hi> of God, it would perſwade and command your belief; you would not chooſe but believe it, without doubting or gain<g ref="char:EOLhyphen"/>ſaying; becauſe you know that cannot but be <hi>infallibly true</hi> which the <hi>God of Truth</hi> ſpeaketh: Chriſt ſaith to his Father,<note place="margin">John 17. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>The Word is truth.</hi> You would feel a Sovereign power in the Word, becauſe it is the Word of an <hi>Almighty God,</hi> the <hi>Word of your God.</hi> You would then receive it as a good word, <hi>tranſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>dently good, good for you;</hi> then you would embrace it, and <hi>receive it in love:</hi> you would then conform your will and affections to it.</p>
+            <p>
+               <pb n="11" facs="tcp:121185:12"/>The Word thus received, would be a <hi>convincing</hi> word, a <hi>con<g ref="char:EOLhyphen"/>verting</hi>
+               <note place="margin">1 Cor. 14. 24, 25. Pſal. 19. 7. Pſal. 119. 24. Acts 20. 32.</note> word, a <hi>directing</hi> word, and an <hi>edifying</hi> word, which would <hi>build you up further, till it have given you an inheritance a<g ref="char:EOLhyphen"/>mongſt them that are ſanctified.</hi>
+            </p>
+            <p>I pray you to conſider what ſins you are guilty of, and yet do lie in; ſay it be Blaſphemie, Swearing, Drunkenneſſe, Pride, Oppreſ<g ref="char:EOLhyphen"/>ſion, Profaneneſſe, Whoredom, or any other ſin, let your conſci<g ref="char:EOLhyphen"/>ence now minde you of your own ſin; and then conſider each one with himſelf, Have I not heard theſe my ſins reproved, and inveighed againſt, by the Prophets of God, and <hi>Miniſters of his Word?</hi> And have they foretold and threatned the Judgements of God, temporall and eternall, due for my ſins? Did you believe that it was God that ſpake, that reproved and threatned you? and that it was Gods voice, in them, calling upon you to repent, and offering pardon through Chriſt? You would then hear, and fear, and repent, and thankfully receive the offer of grace, and believe to the ſalvation of your ſouls. If you have any conſcience, the word thus received would, through God, work mightily upon you, to the pulling down of the <hi>ſtrong holds</hi> of ſin in you, <hi>caſting</hi>
+               <note place="margin">2 Cor. 10. 4, 5.</note> 
+               <hi>down imaginations, and every high thing that exalteth it ſelf againſt the knowledge of God, and would bring into captivity every thought to the obedience of Chriſt.</hi>
+            </p>
+            <p>Learn therefore to hear God ſpeak by his Miniſters, or elſe all your hearing of Sermons will be in vain, will be loſt, nay, will be to your hurt, and for the aggravation of your ſins, and the hea<g ref="char:EOLhyphen"/>ping up of Gods anger and wrath upon you, which he will pour out upon you in his Judgements, Spirituall, Temporall, and Eternall.</p>
+            <p>Becauſe his people would not <hi>hearken to his voice,</hi> ſpoken by his<note place="margin">Pſal. 81. 11, 12.</note> Prophets, God <hi>gave them up to their own hearts luſts, to walk in their own counſels.</hi> For this very ſin of deſpiſing the Word of the Lord ſpoken by the Prophets, the Lord ſent the <hi>Caldeans</hi> to de<g ref="char:EOLhyphen"/>ſtroy and captivate <hi>Judah.</hi> And men are ſentenced to eternall<note place="margin">2. Chron. 36. Deut. 5. 27. Mal. 2. 7. <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 3. 15, 16. 2 Theſſ. 1. 8. and 2. 11.</note> death, becauſe they believed not the truth of the Goſpel witneſſed by the Apoſtles.</p>
+            <p>This doth much concern us in the Miniſtery, ſith the people of God muſt receive what we teach them as the <hi>voice</hi> and <hi>word of God,</hi> that we therefore firſt <hi>go to God, and hear what the Lord hath
+<pb n="10" facs="tcp:121185:12"/>
+to ſay,</hi> and receive of him what we are to deliver unto them.<note place="margin">1 Tim. 4. 13, 15 2 Tim. 2. 15.</note> We muſt therefore diligently give our ſelves to the reading and ſtudying of the Word of God, ſtudying likewiſe to know the<note place="margin">Jer. 23. 28. 1 Pet. 4. 11. Ezek. 3. 9, 10, 11. 2 Cor. 3. 12. Ezek. 2. 6. Tit. 2. 15. 2 Cor. 17. 2. 1 Cor. 2. 1, 4.</note> ſtate and need of the people. And then, as the Prophet <hi>Jeremiah</hi> ſaith, <hi>He that hath the word, let him ſpeak it faithfully;</hi> alſo, <hi>ſpeak it as the Oracles of God,</hi> with all <hi>holy reverence and gravity, plainly, boldly,</hi> not <hi>fearing the face of any, unpartially,</hi> and <hi>with all authority,</hi> becauſe it is <hi>not our</hi> word, but the word and will of God. We muſt deliver the <hi>ſincere word</hi> of God <hi>purely,</hi> not ſophiſticating, or adulterating it with the mixture of our own or others fancies or errours: Neither muſt we hold it forth and deliver it in the dreſſe of the entiſing ſpeech of mans wiſedom, but in the evidence and demonſtration of the ſpirit, and power; not in the words which<note place="margin">1 Cor 2. 13.</note> 
+               <hi>mans wiſedom</hi> teacheth, but <hi>comparing ſpirituall things with ſpiritu<g ref="char:EOLhyphen"/>all,</hi> ſpeaking things of God, the things of the Spirit of God ſpi<g ref="char:EOLhyphen"/>ritually, in Spirituall expreſſions, <hi>approving our ſelves unto every mans conſcience,</hi> in the ſight of God.<note place="margin">2 Cor. 4. 2.</note>
+            </p>
+            <p>When Gods Word is thus taught, and his voice thus heard from our mouthes, <hi>it will not return to him void, but ſhall accompliſh</hi>
+               <note place="margin">Iſa. 55. 11.</note> 
+               <hi>that which he pleaſeth, and ſhall proſper in the thing to which he ſent it.</hi> It will be a ſweet ſavour to God, <hi>both in them that are ſaved,</hi>
+               <note place="margin">2 Cor. 2. 15.</note> 
+               <hi>and in them that periſh.</hi> Thus ſpeaking, ſo that Gods word and voice may be heard from us, we ſhall <hi>ſave our ſelves, and thoſe that</hi>
+               <note place="margin">1 Tim. 4. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>hear us.</hi>
+            </p>
+            <p>
+               <hi>The man of wiſedom ſhall be thy name.</hi> We may here obſerve, That,</p>
+            <p>
+               <hi>Onely the godly wiſe can and will ſee God, in his Word, and in his</hi>
+               <note place="margin">
+                  <hi>Doct.</hi> 2.</note> 
+               <hi>Judgements, or in any other his works which he doth amongſt the ſons of men.</hi> It is a high point of wiſedom to underſtand and ſee God either in his Word or Works, ſo as to give him glory. They that are wiſe <hi>according to God,</hi> they underſtand; but all other, be they never ſo worldly wiſe, they cannot. <hi>David</hi> ſetting forth the many providences of God to be obſerved in divers varieties, and changes in this life, as, <hi>in caſting down ſome,</hi> evengreat ones, and<note place="margin">Pſa. 107. 41, 43.</note> 
+               <hi>raiſing up others,</hi> even the poor, <hi>ſetting him on high from affliction;</hi> he ſaith, <hi>Whoſo is wiſe, and will obſerve theſe things, he ſhall under<g ref="char:EOLhyphen"/>ſtand</hi>
+               <note place="margin">Jer. 9. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>the loving kindneſſe of the Lord.</hi> The Prophet <hi>Jeremiah</hi> la<g ref="char:EOLhyphen"/>menting the eſtate of the Jews, for their many and great ſins, and
+<pb n="12" facs="tcp:121185:13"/>
+for the Judgement to come on that Nation, making <hi>Jeruſalem</hi> heaps, and dens of Dragons, <hi>Who is the wiſe man, that he may un<g ref="char:EOLhyphen"/>derſtand this?</hi> The Prophet <hi>Daniel</hi> foretelling the afflictions and trialls of the Church, and the good that ſhould redound to<note place="margin">Dan. 12. 10.</note> them, namely, their purifying, and being made white, he ſaith, <hi>None of the wicked ſhall underſtand, but the wiſe ſhall underſtand.</hi> And when the Prophet <hi>Hoſca</hi> told <hi>Iſrael</hi> that he had deſtroyed himſelf, and was fallen by his iniquity, and biddeth him take unto him words, and confeſſe his ſin, and ask grace, God promiſeth him he will take his anger from him, and love him freely, and promiſeth to them, that then God will bleſſe them with all bleſſings, ſpirituall and temporall; after all this, he ſaith, <hi>Who is wiſe, and he ſhall underſtand all theſe things? prudent, and he</hi>
+               <note place="margin">Heſ. 14. 9.</note> 
+               <hi>ſhall know them? for the ways of the Lord are right, and the juſt, the wiſe and prudent, they ſhall walk in them; but tranſgreſſours ſhall fall therein.</hi> The wiſe could ſee the Name of God, even the goodneſſe of God in theſe his counſels, and gracious offers and promiſes; he could ſee a great deal of reaſonableneſſe, equity and gratiouſ<g ref="char:EOLhyphen"/>neſſe of God in them: but the wicked, they are blinde and fooliſh, they can ſee no ſuch goodneſſe of God, in his calling them to re<g ref="char:EOLhyphen"/>pentance, and offer of his grace, ſo as to embrace it, and be con<g ref="char:EOLhyphen"/>verted by it; but ſtumbleth, and is offended at it. Even as Chriſt the Corner-ſtone, and Foundation of his Church, is ſeen by the<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 2. 6, 7, 8.</note> 
+               <hi>wiſe,</hi> and judged to be precious; they can ſee Gods Name in him: but the fooliſh, the unbelieving, and diſobedient, they cannot ſee ſuch preciouſneſſe in him, he is a <hi>ſtone of ſtumbling, and rock of of<g ref="char:EOLhyphen"/>fence;</hi> yea, they are offended at that good Word of the Goſpel of Chriſt, which makes a tender of ſalvation, upon their repenting of their ſins, and believing in him.</p>
+            <p>The <hi>naturall man he receiveth not the things of God, neither can he,</hi>
+               <note place="margin">
+                  <hi>Reaſ.</hi> 1.</note> 
+               <hi>becauſe they are ſpiritually diſcerned:</hi> They cannot ſee God aright,<note place="margin">1 Cor. 2. 14.</note> no not in his works of Creation, wherein the <hi>inviſible things of</hi>
+               <note place="margin">Rom. 1. 20.</note> 
+               <hi>him, his eternall power and Godhead, may be ſeen.</hi> For in the <hi>wiſedom of God,</hi> the wiſeſt of men in the world <hi>cannot</hi> by their naturall<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 1. 21.</note> Wiſdom <hi>know God.</hi> Nay, though God make himſelf known to them<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 2. 14.</note> in his Word, in the offer of his grace in the Goſpel, of ſalvation by Jeſus Chriſt; even this is <hi>fooliſhneſſe to them.</hi> Have they never ſo much quickneſſe of wit, or depth of judgement, in things natu<g ref="char:EOLhyphen"/>rall,
+<pb n="9" facs="tcp:121185:13"/>
+or be they never ſo politikely wiſe beyond others, they can ſee nothing of God, neither in his Word, nor Works, and Acts of Providence, whether of his mercy or Juſtice, ſo as to apply it to themſelves for their good, untill God give unto them to be ſpiri<g ref="char:EOLhyphen"/>tually wiſe.</p>
+            <p>But to the Godly wiſe men, <hi>it is given, to know the Myſteries of</hi>
+               <note place="margin">
+                  <hi>Reaſon</hi> 2.</note> 
+               <hi>the Kingdom of God.</hi> That which is hid from the wiſe of the world<note place="margin">Mat. 13. 11. 16.</note> 
+               <hi>God reveals even to the ſimple,</hi> and men accounted but as Ideots in<note place="margin">Mat. 11. 25.</note> the world, when he hath made them wiſe to him-ward. They can alſo ſee the wonderfull excellencies of God in his workes.<note place="margin">Pſal. 63. 2.</note> In them they can ſee the greatneſſe of his power, and of his good<g ref="char:EOLhyphen"/>neſſe and of his truth, and of his juſtice: they can ſee his Name and<note place="margin">Iſai. 26. 8, 9.</note> give him glory in and for all theſe, whether mercies or judgements.<note place="margin">
+                  <hi>Reaſon</hi> 3.</note>
+            </p>
+            <p>They who are indeed wiſe, they give all diligence to ſee the goodneſſe and footſteps of God in all his works that may come<note place="margin">Dan. 10. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> under their conſideration. <hi>They ſet their hearts to underſtand, they will obſerve what God doth;</hi> and as <hi>David</hi> ſaith, <hi>Wiſely conſider of</hi>
+               <note place="margin">Pſal. 107. 43.</note> 
+               <hi>his doings:</hi> whereas the wicked be they never ſo worldly wiſe,<note place="margin">Pſal. 64. 9.</note> 
+               <hi>They regard not the works of the Lord, nor the operation of his hand:</hi>
+               <note place="margin">Iſai. 5. 12.</note> 
+               <hi>they will not behold the Majeſty of the Lord,</hi> when he ſheweth them favour; nor yet will ſee his Name, when his hand is lift up a<g ref="char:EOLhyphen"/>gainſt<note place="margin">Iſai. 26. 10, 11.</note> them in diſpleaſure.</p>
+            <p>Be wiſe therefore all ye that hear me this day, nay, which heare<note place="margin">Vſe.</note> 
+               <hi>Gods voyce crying</hi> unto you this day <hi>to heare the rod:</hi> you may ſee much of God in it, if you were wiſe and would improve your wiſdome, that you may ſee God in his Works, and in the way of his Judgements.</p>
+            <p>It is a ſore Judgement of God to a people, when God ſhall make his name known to them, not onely in his word, but in his great and wonderfull works of mercies and Judgements, and<note place="margin">Deut. 29. 4.</note> leave them to their ignorance and folly, not giving them wiſdome, not giving them hearts to perceive and underſtand Gods Name, Gods Greatneſſe, Goodneſſe, Soveraignty, ſo as to fear and adore him, ſubmit to him and learn righteouſneſſe thereby. As the Bee can finde, and gather honey of every flower, ſo the wiſe man can ſee and learn ſomething of God in all his works.</p>
+            <p>
+               <hi>Be wiſe therefore,</hi> as <hi>David</hi> calleth upon all Princes and Judges<note place="margin">Pſal. 2. 10, 11, 12.</note> of the earth, and be inſtructed; but by what, even by that Iron
+<pb n="14" facs="tcp:121185:14"/>
+rod threatned, and ſhaken over them, that thereby they might learn to fear, and ſerve, and might kiſſe that rod; his wrath being pacified and his anger turned away from them.</p>
+            <p>Then a man is a man of wiſdome, ſuch a one as is meant in this doctrine, when he can diſcern what is the chiefe good, and hath the Judgement to eſteeme it, and to make choyſe of it, and of the right waies of attaining and retaining it. <hi>God is the chiefe good,</hi> the knowledge of him ſo as to beleeve in him, to feare him, and to rely on him, and obey him, <hi>this is true and ſound wiſdome:</hi> When you are thus wiſe, you will ſee Gods Name, you will ſee God in his Word and works, when he ſhall at any time ſpeak by the voyce of his Word, or voyce of his Rod, you then can and ſhall underſtand the meaning of thoſe voyces.</p>
+            <p>To be wiſe to Salvation is the true Wiſdome, by which a man<note place="margin">Prov. 14. 8.</note> can ſee God in his works, ſo as may conduce thereunto: ſuch a<note place="margin">Prov. 28. 5.</note> man underſtandeth his way, and is ſaid to underſtand all things; but evill men underſtand not judgement.</p>
+            <p>The way to have true wiſdome, is, to deny a mans own wiſ<g ref="char:EOLhyphen"/>dome, and (as the Apoſtle adviſeth) <hi>To be a foole</hi> (as the world<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 3. 18.</note> counteth fooliſhneſſe) <hi>that he may be wiſe.</hi> A man by his naturall wit and wiſedome cannot know God. You muſt not think that becauſe by the ſtrength of wit and naturall reaſon you dive deep into the ſearch of things naturall, and humane, and can under<g ref="char:EOLhyphen"/>ſtand them; that it is therefore in the power of your own under<g ref="char:EOLhyphen"/>ſtanding to attain to deep things of God, the Divine things of God; as his Wiſdome, Power, Juſtice, Truth, Goodneſſe, and his Will which may be ſeen in and known by his works. Natu<g ref="char:EOLhyphen"/>rall wiſe men may underſtand the letter of the Word of God, and the matter of Gods workes what they are; but he perceiveth not nor can he perceive <hi>God,</hi> and the <hi>things of God,</hi> in them, nor the end to which they tend, to affect his heart therewith, and to make a Spirituall uſe thereof to himſelf.</p>
+            <p>Theſe things are perceived onely by Spirituall wiſdome, being<note place="margin">1 Cor. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> revealed by the Spirit of God.</p>
+            <p>The <hi>Word of God</hi> hath in it, <hi>instructions of this wiſedome,</hi> and it<note place="margin">Prov. 1. 4, 5.</note> giveth a ſpirituall ſubtilty and ability to diſcern the deep things of<note place="margin">Pſal. 119. 99, 100.</note> God, by it <hi>David</hi> came to be a man of wiſdome, <hi>wiſer than the Ancients, and wiſer than his teachers:</hi> you muſt have recourſe
+<pb n="15" facs="tcp:121185:14"/>
+therefore to the word to that end. But do not think to bring <hi>light</hi> with you, whereby to underſtand it, but bring <hi>faith</hi> with<note place="margin">Heb. 4. 1.</note> you to beleeve it, and come to it to receive <hi>ſight</hi> by it, as well<note place="margin">Rev. 3. 18.</note> as light: for it is <hi>eye-ſalve</hi> and a meanes to <hi>open the eyes of the blind,</hi> as well as to give light to them that ſee. When we are<note place="margin">Pſal. 19. 8.</note> rightly principled by the word, we ſhall learn by it, to ſee God in<note place="margin">Pſal. 19. 7.</note> his works. You muſt firſt beleeve, and then you ſhall know, then it will make you wiſe.</p>
+            <p>Alſo be you much in obſerving and conſidering the works of<note place="margin">Pſal. 107. 43.</note> God, and the wayes of Gods Providence; the more you exer<g ref="char:EOLhyphen"/>ciſe your ſelves therein, the more able you ſhall be to ſee Gods<note place="margin">Pſal. 64. 9.</note> Name.</p>
+            <p>And laſtly, pray for this Wiſdome, as <hi>David</hi> ſaith, <hi>Open mine</hi>
+               <note place="margin">Pſal. 119. 18.</note> 
+               <hi>eyes that I may behold wonderfull things out of thy Law;</hi> ſo, intreate the Lord that you may underſtand the voyce of his mercies, and Judgements what he would have you to learn by them, touching<note place="margin">Jam. 1. 5.</note> him. <hi>If any want wiſdome, let him aske, Heare the rod.</hi>
+            </p>
+            <p>
+               <hi>God would have his people learn by his corrections and by his Judge<g ref="char:EOLhyphen"/>ments</hi>
+               <note place="margin">
+                  <hi>Doct.</hi> 3.</note> 
+               <hi>which he bringeth upon them, and doth execute amongſt them.</hi> All that are under the rod, or that have it ſhaken over them, muſt learn what God teacheth them thereby.</p>
+            <p>The Lord complaines of, and ſharpely rebuketh the City <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi>
+               <note place="margin">Reaſon.</note> becauſe ſhe did not <hi>Hear and obey his voyce, nor receive cor<g ref="char:EOLhyphen"/>rection, Zeph. 3. 2. Every morning the juſt Lord did bring his judge<g ref="char:EOLhyphen"/>ment to light, but the unjust knew no ſhame,</hi> verſe 5. <hi>He ſaid to her, Surely thou wilt feare me, thou wilt receive inſtruction,</hi> verſe 7. This ſheweth what men ſhould do when he doth afflict them. God expecteth his people ſhould have heard his <hi>rod.</hi>
+            </p>
+            <p>The Rod of God is <hi>doctrinall,</hi> man may know Gods mind and will, and his own duty by it, as by the Word: God doth Diſci<g ref="char:EOLhyphen"/>pline his people by his rod, as well as by his Word; in the exer<g ref="char:EOLhyphen"/>ciſe of both he doth <hi>Open the eares of men to Diſcipline, and doth ſeal their inſtruction,</hi> as we reade in the book of <hi>Job; The rod and</hi>
+               <note place="margin">Job 33. 16.</note> 
+               <hi>reproof,</hi> when they go together give wiſedome, as to a childe in a family, in whoſe heart folly is bound; ſo to ſuch children and ſer<g ref="char:EOLhyphen"/>vants in Gods great family in the world, who will not learn, nor be corrected with words. Many (like <hi>Manaſſes</hi>) carry a deaf<note place="margin">Job 36. 10.</note> care unto, nay, will not hear the Word, yet may be brought to
+<pb n="16" facs="tcp:121185:15"/>
+hear the rod; he thereby learned to ſee the Name of God, and to know that the Lord was God, and did humble himſelf greatly<note place="margin">2 Chron. 33. 11, 12, 13.</note> before him.</p>
+            <p>The Judgements of God which are his rod, they do ſecond his Word, and what it ſpake to the eare, they do ſpeak to the other ſenſes, with a louder voyce. Smart and pain ſeconding the Word, do uſually make a deeper impreſſion upon the ſoules and Spirits of men.</p>
+            <p>The Lord never ſmites, but he hath ſpoken firſt, and warned by his Word: and like a father that ſtandeth over his childe when he correcteth him, remembreth him of his faults and of his duty, When the Lord openeth the eare to diſcipline with the correcti<g ref="char:EOLhyphen"/>on, and doth awaken the conſcience, a wiſe child will readily know what God meaneth in thoſe his corrections.</p>
+            <p>We in this kingdome are under Gods Rod, and he is puniſhing<note place="margin">Vſe.</note> us with the rod of his anger: The ſoreſt temporall judgement, that can come to a Nation, is come upon us. We muſt hearken and learn what God would have us to do, now that he is corre<g ref="char:EOLhyphen"/>cting of us, we muſt hear what the rod ſpeaketh unto us.</p>
+            <p>If we conſult the Word, it will tell us what it is that the rod ſpeaketh, ſhewing us why God ſmiteth us, and what he would have us to do, now we are ſmitten; and it will tell us what he will yet do unto us; if when theſe his Judgements are upon us we do not learn righteouſneſſe, ſubmit unto him, and make our peace with him.</p>
+            <p>Firſt, it telleth us that this Judgement is come upon us <hi>for ſin,</hi> and it being a ſore ſtroak, we may learn that it is <hi>for our great ſins.</hi> When God was angry with the children of <hi>Iſrael</hi> at the ſiege of <hi>Ai,</hi> the men of <hi>Ai</hi> ſmote of them and chaſed them,<note place="margin">Joſuah 7. 2, 3, unto verſ. 12.</note> from before the gate and ſlew divers of them, and made them turn their backs upon their enemies: This cauſed <hi>Joſhuah</hi> to humble himſelf before the Arke of the Lord; Gods anſwer unto him was, <hi>Get thee up, wherefore lyeſt thou upon thy face? Iſrael hath finned, and they have alſo tranſgreſſed my Covenant, which I com<g ref="char:EOLhyphen"/>manded them: for they have even taken of the accurſed thing. This ſin of one man, was accompanied with other ſinnes of Rulers and peo<g ref="char:EOLhyphen"/>ple;</hi> namely, <hi>carnall confidence</hi> in the Arme of fleſh, and <hi>carnall pollicy</hi> following it, not asking counſell of the Lord. They thought
+<pb n="17" facs="tcp:121185:15"/>
+all the people were too many to go up, they preſumed that be<g ref="char:EOLhyphen"/>cauſe there were but few men in <hi>Ai,</hi> a party of about two or three thouſand men would be enough to take it. If thou ſay in thine heart, ſaith <hi>Jeremy</hi> to <hi>Judah,</hi> when God ſhould puniſh,<note place="margin">Jer. 13. 22.</note> 
+               <hi>Wherefore come theſe things upon me?</hi> the anſwer is, <hi>For the greatneſſe oſ thine iniquity are thy skirts diſcovered, and thy heels made bare.</hi> In all Gods judgements upon a perſon or people, they may hear God telling them that this is for your ſin. But this is not all it ſpeaketh.</p>
+            <p>It ſecondly doth minde all of ſearching and trying their wayes, to finde out their ſins, and that they might turn to him that ſmit<g ref="char:EOLhyphen"/>eth them. This counſell the Prophet giveth after he had ſaid, <hi>Wherefore doth a living man complain? A man for the puniſhment of</hi>
+               <note place="margin">Lam. 3. 39, 40.</note> 
+               <hi>his ſin: Let us ſearch and try our wayes and turn to the Lord, &amp;c. Come,</hi> ſay they in <hi>Hoſea, and let us return to the Lord, he hath torn</hi>
+               <note place="margin">Hoſ 6. 1.</note> 
+               <hi>and he will heal us, he hath ſmitten and he will bind us up.</hi>
+            </p>
+            <p>Thirdly, the rod bids men not onely to finde out their ſins, and confeſſe them to God, but to ſeek his face and to aske pardon, that God may be at peace with them. This is one end why God afflicteth men, that they might be brought to <hi>acknowledge their of<g ref="char:EOLhyphen"/>fence,</hi>
+               <note place="margin">Hoſ. 5. 15. Hoſ. 14. 3.</note> and ſeek his face: <hi>In their affliction they will ſeek me diligent<g ref="char:EOLhyphen"/>ly,</hi> ſaith the Lord. To ſay from the heart I have ſinned, I will do ſo no more, is a good anſwer to the voyce of the rod, upon this ground; namely, becauſe God had already puniſhed his people, and had threatned a great judgement; therefore, <hi>Prepare to meet</hi>
+               <note place="margin">Amos 4. 12.</note> 
+               <hi>thy God, O Iſrael,</hi> ſaith the Lord.</p>
+            <p>Fourthly, the rod teacheth another leſſon, which is, If men do not amend by preſent Judgements, they ſhall be puniſhed with more, and thoſe greater, <hi>Seven times more for their ſin;</hi> he will<note place="margin">Levit. 26. from v. 10. to v. 40.</note> then avenge the quarrell of his Covenant, and if yet they ſhall walk contrary to him, he will again and again chaſten them, <hi>Se<g ref="char:EOLhyphen"/>ven times more,</hi> untill their Land ſhall be deſolate, and their Cities waſt. But yet ſo, as if when he hath brought his ſoreſt judge<g ref="char:EOLhyphen"/>ments upon them, they ſhould by them learn to humble them<g ref="char:EOLhyphen"/>ſelves, and confeſſe their iniquity, and accept of the puniſhment of their iniquity, God will remember his Covenant and be mer<g ref="char:EOLhyphen"/>cifull<note place="margin">Levit, 26.</note> unto them.</p>
+            <p>Laſtly, when the rod hath taught all the former leſſons, if men
+<pb n="18" facs="tcp:121185:16"/>
+will not hear it, then it teacheth that the Lord may be ſo provo<g ref="char:EOLhyphen"/>ked as to give over ſmiting, as one weary of ſtriking: and to ſay, <hi>Why ſhould you be ſmitten any more? you will revolt more and more.</hi>
+               <note place="margin">Iſai. 1. 5.</note> And becauſe they adde leudneſſe to their filthineſſe, obſtinacy, and impenitency to their wickedneſſe, the Lord ſaith to them as to thoſe in <hi>Ezekicl;</hi> Becauſe I have purged thee, that is, by my judg<g ref="char:EOLhyphen"/>ments would have reclaimed thee, and thou waſt not purged, <hi>Thou ſhalt not be purged from thy filthineſſe any more, till I have cau<g ref="char:EOLhyphen"/>ſed</hi>
+               <note place="margin">Ezek. 24. 13.</note> 
+               <hi>my fury to reſt upon thee.</hi> You may, in the taking away of his rod, if he give over ſmiting, hear him ſay: I have taught and cor<g ref="char:EOLhyphen"/>rected you thus, and thus, and ſo long: I ſee all is in vaine, I will reſerve you for utter ruine and deſtruction; and ſith by no means you will learn to know me, and the things which concern your own peace and good; <hi>You ſhall dye without knowledge, you ſhall dye in your ſins; I will reſerve you to the day of evill.</hi> All this ſmi<g ref="char:EOLhyphen"/>ting,<note place="margin">Job 36. 12. John 8. 24.</note> ſeeing it will not reforme you, ſhall but prepare you for de<g ref="char:EOLhyphen"/>ſtruction, and be an aggravation of your ſin and condemnation.</p>
+            <p>There is no man of wiſdome but can heare the rod ſpeaking to all the purpoſes before mentioned. You may hear moſt, if not all theſe leſſons of the rod, in the thirty and ſixt of <hi>Job,</hi> verſes 7, 8, 9, 10, 11, 12. <hi>If they be bound in ſetters and be holden in cords of aſ<g ref="char:EOLhyphen"/>fliction,</hi>
+               <note place="margin">Job 36. 7, 8, 9, 10, 11, 12.</note> 
+               <hi>then he ſheweth them their worke, and their tranſgreſſions, that they have excceded. He openeth alſo their eare to diſcipline, and commandeth that they return from iniquitie: if they obey and ſerve him, they ſhall ſpend their dayes in proſperitie, and their years in plea<g ref="char:EOLhyphen"/>ſure: But if they obey not, they ſhall periſh by the ſword, and dye without knowledge: But the Hypocrites in heart</hi> (that is, ſuch as profeſſe they know God, but in their works deny him, that have a forme of Godlineſſe but deny the power thereof) <hi>they heap up wrath, They cry not when he bindeth them,</hi> that is, they do not hear nor obey the voyce of the rod, to mourn for their ſins, to aske pardon and to repent when God doth puniſh them.</p>
+            <p>We are greatly afflicted, and under a moſt heavie Judgement, we cannot but be ſenſible of it. I beſeech you therefore to hear the voyce of God now ſpeaking by this rod. You do now beleeve it is for the ſins of the Land: it ſhould therefore put us upon a ſad and ſerious ſearch of our wayes.</p>
+            <p>The Lord is now ſmiting, wounding, and in the way of deſtroy<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:121185:16"/>
+of us. Let us conſider our <hi>tranſgreſſions, that they have exceed<g ref="char:EOLhyphen"/>ed.</hi> And truely, they are ſo many, and ſo great, that I tremble to think of them. As God ſhall bring them to my minde, I ſhall re<g ref="char:EOLhyphen"/>member you of ſome of them; praying you to remember, that this Rod of God is upon us for our ſin; and for this end, that we ſhould humble our ſelves under his hand, that we ſhould repent, and turn to him, and ſeek attonement and reconciliation with him. This is the work of the day; let us with all our might apply our ſelves to it.</p>
+            <p>1. It did pleaſe the Lord, long ſince, to begin a happie Reforma<g ref="char:EOLhyphen"/>tion<note place="margin">The ſins for which God is now puniſhing <hi>England.</hi>
+               </note> of Religion in this Kingdom; and ſhortly after, made triall what we would do, whether we would ſtand faſt to the Truth re<g ref="char:EOLhyphen"/>ceived or not. But in the generality the Land returned to their vo<g ref="char:EOLhyphen"/>mit, and alſo perſecuted the true Religion, and ſhed the blood of many Martyrs, in the days of Queen <hi>Mary.</hi> We have cauſe to judge, that the guilt of that blood, amongſt other ſins paſt, doth lie upon the Land, and crieth for vengeance, and that God is puniſh<g ref="char:EOLhyphen"/>ing it this day.</p>
+            <p>We muſt not onely look upon preſent ſins, to be humble for them, and to bewail them; but upon them that have been com<g ref="char:EOLhyphen"/>mitted long ſince, by our anceſtours that have been before us. So did <hi>Daniel</hi> and <hi>Nehemiah</hi> confeſſe to God not onely their own<note place="margin">Dan. 9. 6, 8, 16. Neh. 9. 33, 34.</note> preſent ſins, but the ſins of their <hi>Kings, Princes</hi> and <hi>Fathers</hi> that lived before them; profeſſing, that for their ſins alſo, confuſion of face was brought upon them, acknowledging Gods righteouſ<g ref="char:EOLhyphen"/>neſſe therein.</p>
+            <p>It pleaſeth the Lord many times to ſeal up, as in his treaſury,<note place="margin">Deut. 32. 34. Job 14. 17. 2 Kings 23. 26. 2 Kings 24. 3. 2 Chron. 33. 12, 13.</note> the ſins of a Land, and to keep them as in a Bag; not puniſhing them ſo ſoon as they are committed: and when they have heaped up more ſins upon them, and their ſins are ripe, then he reckons with them, and puniſheth them for all at once. The ſins of <hi>Ma<g ref="char:EOLhyphen"/>naſſeh</hi> brought judgements upon <hi>Judah,</hi> after his death, though he had repented him of his ſin.</p>
+            <p>2. Alſo, when there was a Reformation both in King <hi>Edward</hi> and Queen <hi>Eliſabeths</hi> time, though they reformed much, yet they wrought not a thorow Reformation. Too much of <hi>Rome</hi> was retained both in Religion and the Government of the Church: and the Land hath not been purged of it to this day.</p>
+            <p>
+               <pb n="20" facs="tcp:121185:17"/>Another great ſin which hath been, and yet is committed in the Land, is Sacriledge. I ſpeak not of the converting of the mainte<g ref="char:EOLhyphen"/>nance of Abbies to other then pious uſes, which may admit of queſtion whether it were ſin or no: I inſiſt not on that: I ſpeak of <hi>robbing God</hi> of the maintenance whereby his Miniſters were and are to be maintained, which hath been a cauſe why many parts of this Kingdome have been deſtitute of ſuch Paſtours as ſhould and could break unto the people the Bread of life. There were none to miniſter unto them Spirituall things, becauſe their Carnall things, paid to maintain them, was turned another way.</p>
+            <p>This Sacriledge lieth ſtill as a ſin upon the Land, provoking God againſt this Kingdom; and you may believe it, that he is now puniſhing it. <hi>For you are curſed with a curſe, ſaith God,</hi> to them<note place="margin">Mal. 3. 8, 9.</note> that lie in this ſin. It is not poſſible for the law of man to make it lawfull to take away that maintenance that hath been deſigned, and yet is paid, for the maintenance of the Worſhip of God, it making no other ſufficient proviſion of maintenance for the Church in the place thereof. I diſpute not by what right Tythes are paid: But ſith they are paid for the maintenance of the Mini<g ref="char:EOLhyphen"/>ſtery, and yet taken from them, and given to thoſe that do not mi<g ref="char:EOLhyphen"/>ſter in the Word and Doctrine, this can be nothing elſe but rob<g ref="char:EOLhyphen"/>bing of God, and a great Sacriledge.</p>
+            <p>The ſame ſins alſo may be charged upon us in <hi>England,</hi> for which God had a controverſie with his people, and did judge them here<g ref="char:EOLhyphen"/>tofore.<note place="margin">Hoſ. 4. 1. Ezek. 22.</note>
+            </p>
+            <p>4. The knowledge of God is not in the Land. This Kingdom notwithſtanding the long time of our enjoying ſo plentifully the light of the Goſpel, doth yet remain extreme ignorant of God, and their duty to him. And this not onely in the dark places of it, in <hi>Wales,</hi> and far North and Weſt, but in the Countreys and Cities in the midſt of the Kingdom.</p>
+            <p>5. The ſins of Swearing and Curſing, of helliſh and damming Blaſphemie, have overgrown this Land, the cry whereof doth reach unto heaven: beſides the ſin of Perjury, concerning which ſin God hath ſaid, that his <hi>curſe ſhall remain, and never depart from</hi>
+               <note place="margin">Ezek. 5. 3, 4.</note> 
+               <hi>the committers thereof, nor from their houſes, till they be conſumed, with the timber thereof, and the ſtones thereof.</hi> All ſorts of perſons, as Supreme, and all Officers in the State, from the Judge to the
+<pb n="21" facs="tcp:121185:17"/>
+meaneſt; all ſorts of Jurours in any Jury, and all ſorts of Wit<g ref="char:EOLhyphen"/>neſſes in all Courts, they binde themſelves to God, by a ſolemn Oath. How many Proteſtations, Oaths and Covenants have been lately taken? But have men kept their Oaths, and do they keep them? are they not broken by all that take them? It had<note place="margin">Eccleſ. 5. 5, 6.</note> been much better for the Kingdom that we had not taken ſo many Oaths, Vows, and Proteſtations, then, having taken them, not to keep them.</p>
+            <p>God is extremely incenſed againſt a People guilty of Forſwear<g ref="char:EOLhyphen"/>ing; eſpecially if the Oaths of State made by the ſupreme Magi<g ref="char:EOLhyphen"/>ſtrate<note place="margin">2 Sam. 21. 1. 2 Chron. 36. 13</note> to the Subject, and of the Subject to the Magiſtrate, be bro<g ref="char:EOLhyphen"/>ken and violated. We are blinde, if we do not ſee that God is puniſhing this Nation for theſe ſins of vain ſwearing, curſing, blaſphemie and perjury. We muſt call to remembrance theſe, amongſt other the ſins of the Land, to bewail them, and make our<note place="margin">Hoſ. 4. 2, 3.</note> peace with God, that he deſtroy us not for them. <hi>Becauſe of theſe, the Land mourneth.</hi>
+            </p>
+            <p>6. The Land is alſo guilty of not oppoſing of the man of fin, Popery and Idolatry, unto the extirpation or it out of the King<g ref="char:EOLhyphen"/>dom. Idolatry hath not onely been tolerated to be committed in the ſecret Chambers of Imagery; but allowed in places elſewhere. We have complied much with Idolaters and Idolatry of <hi>Rome.</hi> We may judge that for this alſo the Lord is puniſhing us.</p>
+            <p>The children of <hi>Iſrael</hi> did not drive out the <hi>Canaanites</hi> from a<g ref="char:EOLhyphen"/>mongſt them, therefore they were as <hi>pricks in their eyes, and thorns</hi>
+               <note place="margin">Judg. 2. 3.</note> 
+               <hi>in their ſides.</hi> And <hi>Joſhua</hi> telleth them, that for their compliances<note place="margin">Joſh. 23. 13.</note> with them, they ſhould remain to be <hi>ſnares and traps unto them, and ſcourges in their ſides, and thorns in their eyes, untill they ſhould periſh from the good land which the Lord their God had given them.</hi> And they ſhould <hi>make them ſin againſt God, and ſurely be a ſnare un<g ref="char:EOLhyphen"/>to them,</hi> as <hi>Moſes</hi> telleth them. Popiſh and Antichriſtian Religi<g ref="char:EOLhyphen"/>on,<note place="margin">Exod. 23, 33.</note> and Idolatry, is as abominable to God, as ever the <hi>Canaani<g ref="char:EOLhyphen"/>tiſh.</hi> Religion and Idolatry was: For <hi>Rome</hi> is called, <hi>The mother of Abominations.</hi>
+            </p>
+            <p>Now whether the permitting of Popery and Papiſts amongſt us, have not been thorns in our eyes, and pricks in our ſides, and have been ſnares and traps, means of ſin and vexation unto us, God uſing them as rods and inſtruments to puniſh us, I leave this to your conſideration,</p>
+            <p>
+               <pb n="22" facs="tcp:121185:18"/>When the <hi>ſons of God</hi> took them <hi>wives of the daughters of men,</hi>
+               <note place="margin">Gen. 6. 2.</note> when thoſe of the true married thoſe that were of a falſe Religi<g ref="char:EOLhyphen"/>on in the firſt Age of the world; and when, after that, both before and after the Captivity, Gods people by profeſſion did mar<g ref="char:EOLhyphen"/>ry ſtrange wives the daughters of a ſtrange god: Gods judge<g ref="char:EOLhyphen"/>ments<note place="margin">Gen. 6. 7.</note> were upon the old world, and all thoſe States that were guilty of this ſin. As when the houſe of <hi>Judah</hi> made affinity with the houſe of <hi>Ahab,</hi> we ſee what evil followed thereupon, and what<note place="margin">2 Chron. 22. Ezra 9. 2, 14.</note> wrath it brought upon the Kingdom of <hi>Judah.</hi>
+            </p>
+            <p>When <hi>Solomon</hi> (a good King otherwiſe) forgat himſelf, and matched with Idolatrous wives, ſinning therein againſt God, God gave him over to his folly (though otherwiſe the wiſeſt of men) that (whether in complement or otherwiſe) he did accompany his wives to their Idolatrous Service; whether he joyned with them therein, it doth not ſo clearly appear: yet he went thus far, that it is ſaid, <hi>He went after Aſhteroth the goddeſſe of the Zidonians, and Milcom</hi>
+               <note place="margin">1 Kings 11. 4, 5, 6, 7.</note> 
+               <hi>the abomination of the Amorites; and he did build an high place for Chemoſh the abomination of Moab.</hi>
+            </p>
+            <p>For theſe very things God brought evil upon his Kingdom. He raiſed up adverſaries againſt him; and what a diviſion and rent it made in that Kingdom, we do well know. May not this be ano<g ref="char:EOLhyphen"/>ther cauſe why Gods wrath is gone out againſt us? Let us hear the rod, doth it not tell us ſo? Let us humble our ſelves this day for theſe ſins alſo, that God may be pleaſed to throw away this his rod from us.</p>
+            <p>We are guilty of other ſins, for which, as for that of Idolatry, when they reign in a Kingdom, God doth puniſh it with his ſeve<g ref="char:EOLhyphen"/>reſt Judgements.</p>
+            <p>7. Theſe are, Oppreſſion, and the not executing of Juſtice and Judgement in a Land. Theſe were the ſins of the Princes and Judges of <hi>Judah;</hi> they were for bribes and rewards. And all <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi>
+               <note place="margin">Micah. 3. 9, 11.</note> according as they had power, did oppreſſe one another. Hath it not been thus in in <hi>England?</hi> and, which ſhould humble us and grieve us moſt, complaints every where tell us, even while we are ſmarting by the rod of God, that theſe ſins of oppreſſion and not executing judgement do encreaſe upon us. Are not many par<g ref="char:EOLhyphen"/>tiall and injurious in their Levies of moneys for the publike uſe of the State? ſparing themſelves and friends, laying intolerable
+<pb n="23" facs="tcp:121185:18"/>
+burdens upon thoſe who have been moſt free, and are now leſſe a<g ref="char:EOLhyphen"/>ble to bear them. Alſo are there not thoſe who were entruſted with the Moneys of the State, and to pay Souldiers, that do manage their Truſt ſo ill, that the Souldier is neceſſitated to live upon free Quar<g ref="char:EOLhyphen"/>ter, and ſpoil of thoſe that pay ordinary great Taxes for the pub<g ref="char:EOLhyphen"/>like Service.</p>
+            <p>Men do exceedingly complain that they cannot have Juſtice. It concerneth you to look to theſe things. As theſe were crying ſins heretofore, and God hath brought upon us theſe Judgements: if theſe continue and encreaſe, we cannot but fear that theſe Judge<g ref="char:EOLhyphen"/>ments ſhall be continued and encreaſed, untill theſe ſins be re<g ref="char:EOLhyphen"/>formed.</p>
+            <p>8. Bloodguiltineſſe is another provoking ſin. It cannot go<note place="margin">Deut. 19. 13.</note> well with a Kingdom where the guilt of innocent blood is not put away by the hand of the Magiſtrate. God will not pardon a Land polluted with innocent blood: he will ſooner or later be<note place="margin">2 Kings 24. 4.</note> avenged of it.</p>
+            <p>How much hath been ſhed heretofore, and the murthers either not brought unto Judgement, or not proſecuted in Judgement? This polluteth a Kingdom with blood; and this blood crieth loud for vengeance upon thoſe into whoſe hands God did put the ſword of Juſtice, to revenge for him, and to execute wrath upon ſuch as are murtherers, and do it not. This cauſeth the Lord to execute Judgement himſelf, in ſhedding the blood upon ſuch a People as this.</p>
+            <p>9. The ſinnes of <hi>Sodom,</hi> Pride, fulneſſe of bread, idleneſſe, un<g ref="char:EOLhyphen"/>mercifulneſſe, and all ſorts of voluptuouſneſſe, have been the com<g ref="char:EOLhyphen"/>mon<note place="margin">Ezek. 16. 49.</note> ſins of this Kingdom, and yet are, notwithſtanding the hand of God is ſo heavie upon us.</p>
+            <p>Our Gentry, and ſuch as were born and left rich in eſtate, they, in a generality, have given themſelves ſo to live, as if they had been made and born for nothing elſe but to eat, and drink, and play, and ſleep, and ſatisfie their ſenſuall luſts. They have ac<g ref="char:EOLhyphen"/>counted it to be a blemiſh, and a matter of diſrepute to them, to live in a Calling, or to give themſelves unto any thing wherein they might be ſerviceable and profitable in any place of good em<g ref="char:EOLhyphen"/>ployment in Church or Common-wealth.</p>
+            <p>Men and women have been moſt luxurious and wanton in
+<pb n="24" facs="tcp:121185:19"/>
+matters of Diet, Apparell and Geſtures, that they know not how or what to eat, what to wear, or how to attire themſelves, or what gate or geſture to uſe. They, for delicacie in theſe, are too<note place="margin">Iſai. 3. 16.</note> like thoſe inveighed againſt, and threatned, <hi>Iſa.</hi> 3. 16.</p>
+            <p>The Land hath been, and yet is polluted with Whoredoms, and<note place="margin">Hoſ. 4. 2. Iſa. 28. 1, 7, 18.</note> is even drowned with Drunkenneſſe. For theſe ſins alſo the Lord is now viſiting of us.</p>
+            <p>10. Another ſin for which God will be wrath with a People, and doth ſcourge them ſore, is <hi>formality in the true Worſhip and Re<g ref="char:EOLhyphen"/>ligion</hi>
+               <note place="margin">Tit. 1. 16.</note> 
+               <hi>of God,</hi> when thoſe who profeſſe the Name of God, do <hi>in works deny him:</hi> and, <hi>having a form of godlineſſe, deny the power of</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 3. 5.</note> 
+               <hi>it.</hi> This is the common and great ſin of this Kingdom. We in this declare that we are an hypocriticall Nation, and therefore the people of Gods curſe, and people of his wrath. So God ſpake of his people the <hi>Jews</hi> againſt whom he ſent the King of <hi>Aſſyria,</hi>
+               <note place="margin">Iſa. 10. 6.</note> the rod of his anger; I will <hi>ſend him againſt an hypocriticall Na<g ref="char:EOLhyphen"/>tion, and againſt the people of his wrath, giving him a charge to take the ſpoil, and to take the prey, and to tread them down like mire in the ſtreets.</hi>
+            </p>
+            <p>Theſe ſins I have remembred you of. There are many others, which I pray you to call to your remembrance. Conſider your own ſins, and the ſins you ſee committed in the Land. And be ſure that you take this into your ſerious thoughts, That for theſe, and other our ſins, God is now puniſhing of us: and, which aggra<g ref="char:EOLhyphen"/>vates them all, we are not amended by his Rod, but grow worſe and worſe.</p>
+            <p>What is now therefore to be done? You have heard what the Rod hath taught us, that, <hi>It is ſor our ſins that God is wrath with us.</hi>
+            </p>
+            <p>We are this day therefore to humble our ſelves for thoſe ſins: we muſt confeſſe them, repent of them, and diſclaim them, and be earneſt ſuitors to God that he would make the Land ſenſible of<note place="margin">Iſa. 9. 13.</note> their ſins, and of this his Rod, that we <hi>turn to him that ſmiteth us.</hi> And every one of us muſt endeavour a Reformation in the Land; firſt of our ſelves, and then of others; beſeeching the Lord to work it. We muſt with all earneſtneſſe intreat the Lord to for<g ref="char:EOLhyphen"/>give theſe ſins of the Land, and that he will be mercifull to us, and be at peace with us, and heal the Land. We have great encourage<g ref="char:EOLhyphen"/>ment
+<pb n="25" facs="tcp:121185:19"/>
+from God himſelf, who ſaith, <hi>If my people that are called</hi>
+               <note place="margin">2 Chron. 7. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>by my Name, ſhall humble themſelves, and pray, and ſeek my face, and turn from their wicked ways; then will I hear from heaven, and will for give their ſins, and will heal their Land.</hi>
+            </p>
+            <p>We may make this ſtroke and wound incurable, if we go on ſtill in our treſpaſſes, if we do not ſpeedily make our peace with our God. We have a promiſe; let us take hold on it, that he may make peace with us; and he will be at peace with us; for<note place="margin">Iſa. 25. 7.</note> he waiteth for our turning unto him, and ſeeking favour of him, that he may be gracious unto us.<note place="margin">Iſa. 30. 18<g ref="char:punc">▪</g>
+               </note>
+            </p>
+            <p>But, as I ſaid before, let us take heed that we go not on in our ſin, leſt we provoke the Lord to continue and encreaſe his iudgements, even to make us a deſolation: We are in the high way to it: For, <hi>a kingdom divided againſt it ſelf, is brought to deſolation.</hi>
+            </p>
+            <p>There are many Symptomes (if we conſider the ſtate of the Kingdom as now it is) that may cauſe us to fear, that, if time<g ref="char:EOLhyphen"/>ly and thorow repentance do not prevent it, this Judgement ſhall not be taken off, but be encreaſed, untill the Land be de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>1. The firſt I ſhall mention, is, When leſſer judgements do<note place="margin">Symptomes of our being neer to utter ruine.</note> not awaken and amend us; eſpecially, if we are grown worſe thereupon. God hath told us that he will deſtroy ſuch a Nation as this: <hi>I ſent cleanneſſe of teeth, and you have not returned to me,</hi>
+               <note place="margin">Amos 4. 6, 7, 9, 10, 11.</note> 
+               <hi>ſaith the Lord: I withheld rain from you, I have ſmitten you with blaſting,</hi> &amp;c. <hi>I have ſent among you the peſtilence; I overthrew ſome of you, as God overthrew Sodom and Gomorrah; yet have ye not returned to me, ſaith the Lord: therefore thus will I do unto thee,</hi> that is, I will deſtroy thee utterly. This you may reade in <hi>Amos</hi> 4. 6, 7, 8 9, 10, 11, 12. God ſware by his holineſſe, verſ. 2.<note place="margin">Am. 4. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> that he would take them away with hooks, and their poſterity with fiſhhooks; they ſhould be carried away captive, and ut<g ref="char:EOLhyphen"/>terly ruined.</p>
+            <p>2. A ſecond Symptome is, When the ſins of a Land grow univerſall, in reſpect of the ſeverall kinde of ſins, and ſeverall ſorts of perſons. All ſorts of ſins are committed, and all ſorts of perſons are grievous ſinners. Reade <hi>Ezek.</hi> 22. Adde there<g ref="char:EOLhyphen"/>unto
+<pb n="18" facs="tcp:121185:20"/>
+theſe ſins; <hi>Contempt</hi> of the Word and holy Ordinances of God, <hi>deſpiſing</hi> of thoſe that truely fear God, and <hi>enmity</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>power of Godlineſſe. Every one wore in them to their</hi>
+               <note place="margin">Ezek. 22.</note> 
+               <hi>power to ſhed blood:</hi> and ſo he reckons up many other, ſaying, In thee there are that commit ſuch and ſuch ſins. There are many ſins named. There is ſcarce any one ſin reckoned there, but the ſalne ſins are rife and common amongſt us. And there you ſhall alſo finde <hi>Princes, and Nobles, and Judges, and Prieſts, and</hi>
+               <note place="margin">Ezek. 22. 25, 27, 29.</note> 
+               <hi>Prophets, and People</hi> were all guilty of ſome of the ſins before mentioned. Therefore the Lord ſaith to the Prophet, Wilt thou judge? Wilt thou judge the bloody Citie? Thou ſhalt<note place="margin">Ezek. 22. 2.</note> ſhew her all her abominations. He would have the Prophet declare to them, that he would puniſh them more then yet he had done.</p>
+            <p>Indeed, before he did bring that deſtroying Nationall Judge<g ref="char:EOLhyphen"/>ment, before he brought the <hi>Caldeans</hi> upon them; after he had threatned it, he did wait to ſee whether any would <hi>make up the</hi>
+               <note place="margin">Ezek. 22. 30.</note> 
+               <hi>hodge, and ſtand in the gap, before him, for the land, that he might not deſtroy it.</hi> So, if there be amongſt us that will indeed get into the breach, and in a right way ſtand in it, and make it up, namely, by prayer, executing judgement, and reformation; we may have hope that God will not deſtroy us. We have reaſon to bleſſe God, that you, our <hi>Worthies of the Parliament,</hi> do en<g ref="char:EOLhyphen"/>deavour it. But if the ſinnes of the Land ſhall be too hard for you, becauſe they make breaches faſter then you can make them up; or if the Lord be not pleaſed that you ſhall continue in the breach to perfect the making it up; if the Lord be ſo angry with us, that nothing ſhall prevail in this way: then we may fear, that now this cloud of blood which hangeth over us, and hath fallen in moſt parts of the Kingdom, ſhall fall in all other parts, till it have gone thorow the whole Nation to de<g ref="char:EOLhyphen"/>ſtroy it.</p>
+            <p>3. That which may cauſe us much to fear, is another Sym<g ref="char:EOLhyphen"/>ptome, God is now viſiting this part of the world, bringing the Sword upon it. Gods manner is, in ſuch viſitations, to be<g ref="char:EOLhyphen"/>gin with his own people, as he did when <hi>Jeremiah</hi> was to take<note place="margin">Jer. 25. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 18.</note> the wine-cup of Gods futy, and cauſe all the Nations to drink
+<pb n="19" facs="tcp:121185:20"/>
+of it, beginning with his own people, to wit, <hi>Jeruſalem,</hi> and the Cities of <hi>Judah.</hi>
+            </p>
+            <p>Thus the Lord hath begun with <hi>Bohemia,</hi> the <hi>Palarinate,</hi> and almoſt all <hi>Germany,</hi> and other parts of <hi>Europe.</hi> I am perſwaded all this part of the world ſhall drink of it; The dregs of this cup, as that of <hi>Jeremies,</hi> was reſerved for Heatheniſh <hi>Babilon,</hi>
+               <note place="margin">Jer. 25. 15. 18.</note> who drunk of it laſt: ſo the dreggs of this our cup ſhall be re<g ref="char:EOLhyphen"/>ſerved for <hi>Antichriſt,</hi> even for ſpirituall <hi>Babylon,</hi> for <hi>Rome,</hi> that mother of fornications, and for all thoſe that are drunk with the wine of her fornications: ſhe happily ſhall drink laſt, and drink up this cup of the Lords fury.</p>
+            <p>It was a great while before we began to drink of it; but un<g ref="char:EOLhyphen"/>leſſe, by a ſpecialty of humbling our ſelves before God, and tur<g ref="char:EOLhyphen"/>ning to God and ſeeking of him more than ordinarily, we do procure that it may paſſe, and God do take it from us; as true as God hath threatned ſuch ſinners as we are, and hath begun to execute it, the ſword ſhall not be put up till we be de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>Our times are very troublous, and God uſeth to build his<note place="margin">Dan. 9. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Church, as he did <hi>Jeruſalem,</hi> in ſuch troublous times: we are rea<g ref="char:EOLhyphen"/>dy to hope that God will now reforme and build up his Church and make it a glorious Church in this Nation, and we would gladly beleeve that theſe ſhakings are but preparations to a happy reformation.</p>
+            <p>I doubt not but theſe wars and commotions amongſt the true Churches of God are preparations thereunto. But whe<g ref="char:EOLhyphen"/>ther we of this preſent generation may not for our ſins and for our tryall be much waſted and deſtroyed with the ſword, and which is worſe, be put under the power of thoſe that are for Antichriſt, we cannot promiſe to our ſelves.</p>
+            <p>I know that ere long that <hi>mother of abhomination</hi> with her<note place="margin">Rev. 17. 6.</note> children, who have been drunk with the <hi>blood of the Saints</hi> and with the blood of the Martyrs of Jeſus, ſhall receive double.<note place="margin">Rev. 18. 6.</note> In the cup that ſhe hath filled, it ſhall be filled to her double: But whether (ſith the time of Antichriſts raign is but ſhort) he may not have a lightning before his death, as to riſe to have ſo much power added to his malice, as to ſhed more blood, that
+<pb n="28" facs="tcp:121185:21"/>
+the Lord may take a juſt occaſion by it to execute vengeance up<g ref="char:EOLhyphen"/>on that State for all the blood ſhed by it, we cannot tell: we have ſome cauſe to fear it, if we do but obſerve that already the <hi>Palatinate</hi> and other Churches that were reformed, are brought under the power of thoſe that are Antichriſtian; why ſhould we not think that the like may befall us? nothing but an unfained turning from our ſins unto God, and a through re<g ref="char:EOLhyphen"/>formation, which yet we are far from, can hinder it.</p>
+            <p>I ſpeak not this to diſcourage any, but that we ſhould be pre<g ref="char:EOLhyphen"/>pared for the worſt, and to put us upon a more through hum<g ref="char:EOLhyphen"/>bling of our ſelves before God, and of getting into, and making up the breach which our ſinns have made, that he may ſpare us and not deſtroy us.</p>
+            <p>4. To adde one Symptome more, A Spirit of perverſneſſe, <hi>a ſpirit of Diviſion</hi> is in the midſt of us, and is ſpread through all the Kingdome; Diviſions in Church, diviſions in Com<g ref="char:EOLhyphen"/>mon-wealth. A Kingdome thus divided, how can it ſtand? When the Lord is wrath with a people then <hi>he mingleth a per<g ref="char:EOLhyphen"/>verſe</hi>
+               <note place="margin">Iſa. 19. 13, 14.</note> 
+               <hi>Spirit amongſt them,</hi> he makes their Princes become fools, and their Counſellors become brutiſh, deſtitute of right reaſon, yea he divideth them in their Councels. He ſetteth <hi>Ephraim againſt Manaſſeh, and Manaſſeh againſt Ephraim,</hi> to the ma<g ref="char:EOLhyphen"/>king<note place="margin">Iſa. 9. 19, 20, 21.</note> of a Land dark through miſeries, <hi>when no man ſhall ſpare his brother,</hi> becauſe of the diſcords and civill wars which God in his wrath ſhould raiſe amongſt them; as a juſt puniſhment of their not joyning together to ſerve the Lord with one conſent.</p>
+            <p>It will not be much out of the place to mention a ſin which I omitted before; which is, the <hi>growth of Errours</hi> and <hi>Schiſmes</hi> in this Kingdome, which are ſo much the more dan<g ref="char:EOLhyphen"/>gerous, becauſe this errour alſo is grown up with them (a ſtrong means to nouriſh them,) Namely, that men muſt enjoy <hi>Liberty of Conſcience,</hi> denying it to be in the power of any, no not in the Magiſtrate to reſtrain them. This is grown to a great height, and hath many abettors, and pleaders for it. Little courſe is taken to repreſſe it. Some to whom it belongs to do it, I fear are corrupted with this Errour. This is an in-let and ground for the toleration of all Religions. Errours and Here<g ref="char:EOLhyphen"/>ſies
+<pb n="29" facs="tcp:121185:21"/>
+are <hi>Gangrens,</hi> which if their courſe be not ſtopped, will increaſe to the deſtruction of the whole. The Apoſtle will have that ſuch ſhould not onely be <hi>ſhunned,</hi> but that their <hi>mouthes ſhould be ſtopped,</hi> leſt they deceive others and it en<g ref="char:EOLhyphen"/>creaſe<note place="margin">Tit. 1. 11.</note> to more ungodlineſſe: and he requireth <hi>Timothy</hi> to<note place="margin">1 Tim. 1. 3.</note> 
+               <hi>Command that men preach no other Doctrine:</hi> every one there<g ref="char:EOLhyphen"/>fore may not teach what Doctrine he pleaſeth; but if he teach falſe Doctrine, he is to be reſtrained. I know the firſt way of ſtop<g ref="char:EOLhyphen"/>ping the mouths of ſuch, is by ſound Doctrine to convince them<note place="margin">Tit. 1. 9. 11.</note> of their Errour, and if they will not be convinced, to proceed againſt them by Eccleſiaſticall cenſure; laying a command up<g ref="char:EOLhyphen"/>on them not to teach ſuch Doctrine; but if ſtill they will per<g ref="char:EOLhyphen"/>ſiſt, God hath given power to the Civill Magiſtrate to reſtrain them: For he is to govern ſo, that under him men may live a<note place="margin">1 Tim. 2. 2.</note> godly as well as a quiet life: and he beareth not the ſword in vaine, but is Gods Miniſter to puniſh, therefore to his power<note place="margin">Rom. 13. 4.</note> to reſtrain <hi>him that doth evill.</hi> And what greater evill can a man do, then to ſeduce his brother?</p>
+            <p>But to return where I left; be ſenſible of the diviſions that are amongſt us, if they be not made up but increaſe, we ſhall<note place="margin">Gal. 5. 15.</note> claſh one againſt another, that we ſhall be conſumed one of ano<g ref="char:EOLhyphen"/>ther, and confuſion will be in the end. It doth preſage very<note place="margin">Jam. 3. 19.</note> much evill to a Land, when the Lord ſhall do with it as he did with the Land of <hi>Judah,</hi> when he ſhall ſill the <hi>Kings, Prieſts, and Prophets, and the Inhabitants thereof with drunkenneſſe.</hi> Firſt, drunk with Errour and wickedneſſe, which they have drunk in abundantly; then God maketh them drink, till they be drunk with the wine of his indignation. He ſaith he will<note place="margin">Jer. 13. 13. 14, 15.</note> 
+               <hi>daſh them one againſt another, even the fathers and the ſons together,</hi> ſaith the Lord, <hi>I will not pitty, nor ſpare, nor have mercy; but de<g ref="char:EOLhyphen"/>stroy them. Hear ye, and give eare, he not proud;</hi> (ſaith the Pro<g ref="char:EOLhyphen"/>phet) <hi>for the Lord hath ſpoken.</hi> And his councell is to give glo<g ref="char:EOLhyphen"/>ry to God, namely in confeſſing and amending their faults, and making their peace with him, <hi>Before he bring darkneſſe and the</hi>
+               <note place="margin">Jer. 13. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>ſha low of death,</hi> this great deſtruction upon them. Happy ſhould we be, if we would take this Counſell: We have need of it; if ever any Nation was ſilled with ſuch a drunkenneſſe, certain<g ref="char:EOLhyphen"/>ly
+<pb n="22" facs="tcp:121185:22"/>
+at this time this our Land is. God ſaith oft; <hi>Shall I not be a<g ref="char:EOLhyphen"/>venged</hi>
+               <note place="margin">Jer. 5. 9. 29.</note> 
+               <hi>of ſuch a Nation as this?</hi> when men grow worſe in ſtead of amending, proceeding from evill to evill, and will not know God and ſee his Name, when they are under his rod.</p>
+            <p>I ſpeak all this, to the end that we may earneſtly ſeek the Lord, and cry aloud to him this day for mercy, who cryeth to us with a loud voyce, <hi>To hear the rod, and who hath appointed it.</hi>
+               <note place="margin">Jer. 9. 3, 4, 9, 16.</note>
+            </p>
+            <p>Laſtly, we have oft times faſted and humbled our ſelves be<g ref="char:EOLhyphen"/>fore the Lord; yet you ſee that this great Judgement is not re<g ref="char:EOLhyphen"/>moved, but increaſing dayly. Certainly, this is becauſe either we have not been ſincere and unfeigned herein: which if it be, let us afflict and humble our ſelves this day as we ought to do, for our ſelves, and for the Land; or elſe it argueth that God will yet plague us more for our ſins, and we may fear to our deſtru<g ref="char:EOLhyphen"/>ction. Formall Faſts are juſt provocations of God againſt a Land; as were the ſolemn meetings and prayers of the <hi>Jews,</hi>
+               <note place="margin">Iſa. 1. 14, 15.</note> whoſe hands were full of blood, and their faſtings ſeperate from<note place="margin">Iſa. 58. 4, 5.</note> Reformation.</p>
+            <p>It concerneth us to repent of our former Faſtings and hum<g ref="char:EOLhyphen"/>blings, for in the generality, men have not kept ſuch a Faſt as God requireth, no marvell then if God have not regarded it. We have not faſted from our ſins; we have faſted to ſtrife, and<note place="margin">Iſai. 58. 3, 4.</note> debate, and contention, and Schiſme, and all manner of wicked<g ref="char:EOLhyphen"/>neſſe and ungodlineſſe. We have not been ſo humbled as to turn from our ſins to the Lord, as to looſe the bonds of wickedneſſe,<note place="margin">Iſa. 58. 6, &amp;c.</note> and to walk in the wayes of holineſſe, ſobriety, mercy, and righteouſneſſe.</p>
+            <p>That Land is in a very ſad condition, when albeit Faſts are Proclaimed and kept, God ſhall ſay, <hi>I will not hear their cry, but</hi>
+               <note place="margin">Jer. 14. 12.</note> 
+               <hi>will conſume them with the ſword, and with the famine, and with the pestilence.</hi> Yet God forbid that we ſhould give over humb<g ref="char:EOLhyphen"/>ling our ſelves, and our praying unto him; his deferring of help may be becauſe he would have us ſeek him more earneſtly, and more unfeignedly; then we may hope, <hi>He will be found of us</hi>
+               <note place="margin">Jer. 29. 12. 13.</note> 
+               <hi>when we ſhall ſeek him with our whole heart.</hi>
+            </p>
+            <p>
+               <hi>And who hath appointed it,</hi> Namely, God hath appointed it; we learn hence:</p>
+            <p>
+               <pb n="23" facs="tcp:121185:22"/>
+               <hi>In all Judgements and corrections of any perſon or people, whatſo<g ref="char:EOLhyphen"/>ever</hi>
+               <note place="margin">Doct.</note> 
+               <hi>the rod or inſtrument may be, God is the appointer,</hi>
+            </p>
+            <p>It is of God, it is from him, and is ordered by him.</p>
+            <p>This is abundantly proved in <hi>Leviticus</hi> 26. and in <hi>Deut.</hi> 28.<note place="margin">Levit. 26. Deut 28.</note> where God ſaith, I will appoint over you, ſuch and ſuch diſea<g ref="char:EOLhyphen"/>ſes, I will ſend ſuch and ſuch puniſhments, or the Lord ſhall ſmite thee thus and thus. <hi>Is there any evill in the City,</hi> (that is,<note place="margin">Amos 3. 6.</note> evill of puniſhment) <hi>and the Lord hath not done it? I make peace and create evill, I the Lord do all theſe things,</hi> ſaith the Lord:<note place="margin">Iſa. 45. 7.</note> Affliction ariſeth not out of the duſt:<note place="margin">Job 5. 6.</note>
+            </p>
+            <p>Puniſhments and corrections are Acts of Gods vindicative<note place="margin">
+                  <hi>Reaſ.</hi> 1.</note> juſtice, which he reſerveth to himſelf, as part of his Prerogative belonging to his Soveraignty. <hi>Vengeance is mine</hi> ſaith the Lord:<note place="margin">Deut. 32. 35. Rom. 12. 19.</note> God will have the ordering of all corrections.</p>
+            <p>All things are of God, and in him do conſiſt, and there is not<note place="margin">
+                  <hi>Reaſ.</hi> 2.</note> any thing, but God willeth it to be, either by his effecting or per<g ref="char:EOLhyphen"/>mitting. What <hi>Herod</hi> and <hi>Pontius Pilate</hi> did againſt Chriſt, was<note place="margin">Act. 4. 28.</note> nothing but what his <hi>hand and Counſel determined before to be done.</hi>
+            </p>
+            <p>The creatures and ſecond cauſes, they are all Gods ſervants to do and to execute his will. Man by whom he correcteth any<note place="margin">Iſa. 10. 6. Pſal. 17. 14.</note> is but <hi>his rod,</hi> or <hi>his ſword.</hi>
+            </p>
+            <p>I deſire that this truth ſhould be beleeved; for then when a<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe.</note> man is afflicted, and under any judgement, he will know and conſider, That it is God that ſmiteth, it is God to whom he muſt return; it is God of whom he muſt ſeek favour and mercy, and with whom he muſt make his Peace.</p>
+            <p>This confuteth an Errour, and reproveth a great fault in ma<g ref="char:EOLhyphen"/>ny,<note place="margin">Vſe.</note> who look upon the puniſhments and judgements they feel, as upon things that come caſually, by hap hazzard, or ill fortune, as they call it; or from the malice of men: they look no fur<g ref="char:EOLhyphen"/>ther than to the immediate actors or inſtruments thereof. They do not, many will not, ſee the hand of God in it.</p>
+            <p>This Atheiſm is common amongſt men; beware of it; for from hence it is that men in their afflictions are impatient un<g ref="char:EOLhyphen"/>der them, and do fret and chafe at the inſtrument, and do ſtudie revenge againſt men, and uſe indirect means to get them off. Let none ſhut their eyes againſt this truth. The Prophet com<g ref="char:EOLhyphen"/>plaineth
+<pb n="32" facs="tcp:121185:23"/>
+of thoſe that, when <hi>Gods hand was lifted up,</hi> and his<note place="margin">Iſa. 26. 11. Ezek. 7. 9. Micah 6. 13.</note> judgements were upon the earth, <hi>they would not ſee: but they ſhall ſee,</hi> ſaith he, <hi>and be aſhamed.</hi> He will make them know that it is he that ſmiteth. God will ſmite them, till he make them <hi>ſick with ſmiting,</hi> and make them deſolate, becauſe of their ſins.</p>
+            <p>When men in their afflictions ſhall conſider that God hath<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 3.</note> appointed them, it will humble them, and calm their ſpirits.<note place="margin">Pſal. 39. 9.</note> They will <hi>lay their hands on their mouthes,</hi> and accept of their puniſhment, becauſe God hath appointed it, <hi>bearing patiently</hi>
+               <note place="margin">Micah 7. 9.</note> 
+               <hi>the indignation of the Lord, becauſe they have ſinned againſt him.</hi>
+            </p>
+            <p>Would we have our preſent judgement taken off? Now we know who hath appointed it, let us prepare to meet him, let<note place="margin">Hoſ. 6. 1.</note> us return to him that hath ſmitten us, and make our peace with him.</p>
+            <p>This Rod and Sword being called, <hi>Gods rod,</hi> and <hi>Gods ſword,</hi>
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 4.</note> which ſmite at <hi>Gods appointment,</hi> we may then ſee that the great Quarrell and Controverſie, originally, is not betwixt man and us, but between God and us. We muſt therefore firſt ſub<g ref="char:EOLhyphen"/>mit to him, and make our peace with him, elſe we ſhall make no peace, or no good peace, with man.</p>
+            <p>It is not any policie, or power, nor any other means (though good, and ſo neceſſary, that we ſhall ſin if we uſe them not) can remove our evil from us, but as we ſhall obtain it of God, who hath appointed it.</p>
+            <p>When the Sword of God was called upon to put it ſelf up into the Scabbard, and asked <hi>How long it would be ere it would be</hi>
+               <note place="margin">Jer. 47. 6, 7.</note> 
+               <hi>quiet;</hi> anſwer is made, <hi>How can it be quiet, ſeeing the Lord hath given it a charge</hi> againſt Aſhkelon, and againſt the Sea ſhore? <hi>there he hath appointed it.</hi> The Lord muſt command it to be put up, or it will not ceaſe ſmiting till it have conſumed us.</p>
+            <p>It is not any Articles of Peace, be they never ſo equall and reaſonable; it is not the power of the ſword, nor of any means we can uſe, though never ſo lawfull and neceſſary, that can take off the rod from us, and give us peace; except in the uſe of all good means to ſatisfie him, we ſhall obtain it of him who hath appointed it.</p>
+            <p>We may haply uſe ſuch means as may skin over the wound,
+<pb n="33" facs="tcp:121185:23"/>
+and conclude a Peace; but it will break out again, if God be not at peace with us, and if he do not appoint and make our Peace for us.</p>
+            <p>Wherefore I beſeech you, that (with all the good means that poſſibly we can uſe) we endeavour, to the utmoſt of our power, to procure of God to take this rod from us, and give us Peace.</p>
+            <p>Let us repent of our own ſins, and endeavour that the Land may repent. Let us remove out of Gods ſight whatſoever doth offend him. Let us ſeek, and finde out, and caſt out thoſe execra<g ref="char:EOLhyphen"/>ble things which have provoked the Lord to appoint the rod and ſword to ſmite and deſtroy amongſt us. Let us give him no reſt, but continue our wreſtling with him, with <hi>Jacobs</hi> wreſtlings, by humble, and earneſt, and importunate <hi>prayer and ſupplication.</hi> By this ſtrength we may have power with God,<note place="margin">Hoſ. 12. 3, 4.</note> and (to ſpeak with holy reverence to his Omnipotency) we may have <hi>power over God, to prevail with him.</hi>
+            </p>
+            <p>Then we may expect that he that hath appointed the rod will lay it by, if not caſt it into the fire, and will command it to ceaſe ſmiting, and will command the ſword to be put up into the Scabbard; and then we ſhall have peace, and not till then. Iſ we would caſt away our ſins, God would certainly caſt away his rod. If we prepare to meet him, he will be friends with us.</p>
+            <p>But to conclude with a word of comfort to thoſe that true<g ref="char:EOLhyphen"/>ly<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 5.</note> fear God. That God is the appointer and orderer of the rod in all puniſhments, is a Ground of ſtay, and ſupport of their hearts and ſpirits in the greateſt afflictions.</p>
+            <p>Be enemies never ſo powerfull and malicious, we need not fear them; it ſhall not be as they intend, either for the greatneſſe or continuance of the evil which they would bring upon us, but according to the will of God, who hath given them charge to aſſlict us. As it was in the caſe of the children of <hi>Judah,</hi> when the Lord gave a charge to the <hi>Aſſyrians</hi> to war againſt them, ſaying, <hi>O Aſſyrian, the ſword of mine anger, and the ſtaff</hi>
+               <note place="margin">Iſa. 10. 6, 7.</note> 
+               <hi>of mine indignation; I ſend him againſt an hypocriticall Nation, and againſt the people of my wrath will I give him a charge to take
+<pb n="34" facs="tcp:121185:24"/>
+the ſpoil,</hi> &amp;c. <hi>Howbeit he meaneth not ſo, neither doth his heart think ſo,</hi> namely, to correct or puniſh for God in meaſure, and for their good; he never thinketh that he is but a rod in Gods hand: But he being let looſe to his own covetouſneſſe, and ambition, and malice againſt Gods people, <hi>it is in his heart to deſtroy Nations not a few,</hi> and to raiſe himſelf upon the ruines of Gods people. But God put a hook in his noſtrils, that he could not have his will of them; and afterward, for his rage and cruelty in executing his charge in ſmiting Gods people, God did utterly deſtroy him. God doth with them, as with<note place="margin">Iſa. 10. 7, 12, 16, 17.</note> the proud waves which would overflow the mountains; they have their chanell to flow in; Gods appointment doth ſet Bars to them, and ſaith, <hi>Hitherto ſhalt thou come, and no farther, and</hi>
+               <note place="margin">Job 38. 11.</note> 
+               <hi>there ſhall thy proud waves be ſtayed.</hi>
+            </p>
+            <p>It is well for Gods people that the rod and ſword is in the hand, and at the appointment of God, their Wiſe, Almighty, and tender Father.</p>
+            <p>God puniſheth his children in <hi>meaſure,</hi> both for how much,<note place="margin">Iſa. 27. 8. 9.</note> and how long; not ſo much nor ſo long as the enemy inten<g ref="char:EOLhyphen"/>deth: He meaſureth every dram for weight, and every minute for time. His rod ſhall be upon us no longer then he hath ap<g ref="char:EOLhyphen"/>pointed it; no longer then is needfull <hi>to purge us from ſin,</hi> and<note place="margin">Heb. 12. 10.</note> make us partaker of his holineſſe.</p>
+            <p>As he hath appointed a time of trouble, and tryall, ſo he hath appointed an end thereof. <hi>And the rod of the wicked ſhall not</hi>
+               <note place="margin">Pſal. 125. 3.</note> 
+               <hi>alwayes rest upon the Lot of the Righteous. He will not alwayes</hi>
+               <note place="margin">Iſa. 28. 28, 29.</note> 
+               <hi>be threſhing:</hi> his ſmiting is for correction and for our good, not for our deſtruction. He is wonderfull in Counſell and excellent in working. When he hath ſufficiently ſmitten us with his rod, he will take his rod and burn it: then he holdeth it to be ſuffi<g ref="char:EOLhyphen"/>cient,<note place="margin">Levit. 26. 41.</note> when our uncircumciſed hearts are humbled, and when we ſhall accept of the puniſhment of our ſins, acknowledging that he hath puniſhed us leſſe then our iniquities; when we<note place="margin">2 Chron. 7. 14.</note> ſhall kindly ſubmit unto God, and reform our wayes, pray, and ask forgiveneſſe, he hath then promiſed that he will forgive our ſins and he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l our Land; he will take this ſtrok from us.</p>
+            <p>And when God uſeth the wicked; His, and our enemies, to
+<pb n="35" facs="tcp:121185:24"/>
+be his rod; when he hath attained his end, our troubles ſhall end in their deſtruction, God may uſe Papiſts, Antichriſt, and his Abettors, to be his rod, and ſword, whereby to correct and refine his people; which when it is done, They, becauſe God hath appointed it, ſhall certainly be deſtroyed. Let not your ſpirits ſink nor fail, while you are under the rod, though it may happen to be much worſe with us then yet it is: for it ſhall be onely ſo much and ſo long as he in his wiſedome hath ap<g ref="char:EOLhyphen"/>pointed for our good.</p>
+            <p>I will end with that comfortable Scripture touching his Church then, and <hi>Babilon</hi> in <hi>Chald<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a;</hi> which is as applyable to us and to <hi>Babilon</hi> at <hi>Rome; Yet a very little while, and the indig<g ref="char:EOLhyphen"/>nation ſhall ceaſe,</hi> ſaith God, <hi>and mine anger in their deſtruction.</hi>
+               <note place="margin">Iſai. 10. 25.</note> For he hath appointed the rod of Iron to break in peeces his enemies; as well as his rod of men to correct his children: com<g ref="char:EOLhyphen"/>fort we our ſelves with theſe thoughts, nothing commeth to paſſe in the way of correction of his children, but as he hath appointed. Let us therefore for all theſe good purpoſes, <hi>Hear the rod, and who hath appointed it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 10. line 25, for <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, reade <hi>ſee.</hi> p. 14. l. 2. for <hi>that rod,</hi> read the S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, p. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l. 24 for <hi>upon</hi> read <hi>the,</hi> p. 35. l. 8. blot out, <hi>theſe,</hi> P. 19. l. 24. for <hi>profeſſing,</hi> reade <hi>confeſſing.</hi> P. 23. l. 18. for <hi>murthers,</hi> reade <hi>murtherers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
